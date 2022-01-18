@@ -1,0 +1,558 @@
+hh_id,spending,children,income,employment,age,education,occupation,brth_cntry
+7650,411,1 Child,$0-$20k,No female head,No female head,No female head,No female head,No female head
+7651,330,1 Child,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7653,61,1 Child,$0-$20k,Part-time,60 and over,Some or completed secondary,No female head,Canada
+7608,949,2 Children,$0-$20k,Part-time,40 to 49,Post-secondary diploma,No female head,Canada
+7643,197,1 Child,$0-$20k,Unemployed,60 and over,Elementary or less,Non-working or retired,Canada
+7655,115,1 Child,$0-$20k,Full-time,29 and under,Elementary or less,Pink collar,Asia and Oceania
+7663,920,2 Children,$0-$20k,Full-time,29 and under,Elementary or less,Pink collar,Canada
+7678,645,2 Children,$0-$20k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+7684,1086,2 Children,$0-$20k,Full-time,40 to 49,Post-secondary diploma,No female head,Canada
+7687,100,2 Children,$0-$20k,Unemployed,29 and under,Not stated,Non-working or retired,Canada
+7689,1755,2 Children,$0-$20k,Full-time,40 to 49,Some post-secondary,Pink collar,Canada
+7690,243,1 Child,$0-$20k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+7696,620,1 Child,$0-$20k,Part-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+7700,360,1 Child,$0-$20k,Part-time,29 and under,Some or completed secondary,No female head,Canada
+7702,315,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7703,340,1 Child,$0-$20k,Part-time,30 to 39,Some or completed secondary,White collar,Canada
+7704,316,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7705,949,3 Children,$0-$20k,Unemployed,30 to 39,Elementary or less,Non-working or retired,Canada
+7707,526,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7708,743,2 Children,$0-$20k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7710,500,2 Children,$0-$20k,Part-time,29 and under,Some or completed secondary,No female head,Canada
+7711,848,2 Children,$0-$20k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+7712,1840,3 Children,$0-$20k,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+7714,804,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,"US, N&W Europe"
+7717,560,1 Child,$0-$20k,Part-time,29 and under,Some or completed secondary,Other,"US, N&W Europe"
+7721,437,2 Children,$0-$20k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+7723,407,2 Children,$0-$20k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Canada
+7727,420,1 Child,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7730,1005,2 Children,$0-$20k,Full-time,30 to 39,Some or completed secondary,Blue collar,Other
+7733,160,3 Children,$0-$20k,Part-time,30 to 39,Elementary or less,No female head,Asia and Oceania
+7741,266,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7748,656,1 Child,$0-$20k,Full-time,29 and under,Some or completed secondary,White collar,Canada
+7753,467,1 Child,$0-$20k,Unemployed,29 and under,Some post-secondary,Non-working or retired,Other
+7758,761,3 Children,$0-$20k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+7760,485,1 Child,$0-$20k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Other
+7761,847,1 Child,$0-$20k,Full-time,30 to 39,Unirvesity degree,White collar,Asia and Oceania
+7767,1235,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Other
+7770,317,2 Children,$0-$20k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+7774,1250,2 Children,$0-$20k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+7776,100,1 Child,$0-$20k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+7780,961,1 Child,$0-$20k,Part-time,30 to 39,Post-secondary diploma,White collar,Asia and Oceania
+7785,585,3 Children,$0-$20k,Full-time,30 to 39,Some or completed secondary,Other,Other
+7786,687,4+ Children,$0-$20k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,Canada
+7813,40,2 Children,$20k-$30k,Part-time,29 and under,Some or completed secondary,White collar,Canada
+7815,470,3 Children,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7816,940,3 Children,$20k-$30k,Full-time,40 to 49,Post-secondary diploma,White collar,Canada
+7817,13,2 Children,$20k-$30k,Part-time,29 and under,Some or completed secondary,White collar,Canada
+7819,88,1 Child,$20k-$30k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Canada
+7823,40,1 Child,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Asia and Oceania
+7829,1124,3 Children,$20k-$30k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+7833,566,1 Child,$20k-$30k,Full-time,60 and over,Some or completed secondary,White collar,Other
+7836,312,2 Children,$20k-$30k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+7838,905,3 Children,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7839,294,4+ Children,$20k-$30k,Part-time,30 to 39,Elementary or less,Pink collar,Asia and Oceania
+7846,614,2 Children,$20k-$30k,Full-time,30 to 39,Some post-secondary,Pink collar,"US, N&W Europe"
+7854,675,1 Child,$20k-$30k,Part-time,29 and under,Unirvesity degree,Pink collar,S&E Europe
+7857,235,1 Child,$20k-$30k,Unemployed,29 and under,Unirvesity degree,Non-working or retired,Canada
+7861,120,2 Children,$20k-$30k,Full-time,30 to 39,Some or completed secondary,No female head,Canada
+7863,80,2 Children,$20k-$30k,Part-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+7866,244,3 Children,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7867,364,2 Children,$20k-$30k,No female head,No female head,No female head,No female head,No female head
+7869,115,1 Child,$20k-$30k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+7877,460,1 Child,$20k-$30k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+7878,523,1 Child,$20k-$30k,Part-time,29 and under,Some or completed secondary,No female head,Canada
+7886,420,1 Child,$20k-$30k,Part-time,29 and under,Some or completed secondary,White collar,Canada
+7889,514,1 Child,$20k-$30k,Full-time,40 to 49,Some post-secondary,Pink collar,Canada
+7894,648,3 Children,$20k-$30k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+7910,1134,1 Child,$20k-$30k,Full-time,29 and under,Post-secondary diploma,Pink collar,Other
+7918,430,2 Children,$20k-$30k,Full-time,30 to 39,Post-secondary diploma,Blue collar,Canada
+7938,140,1 Child,$30k-$40k,Full-time,30 to 39,Unirvesity degree,White collar,Asia and Oceania
+7940,380,2 Children,$30k-$40k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+7942,427,1 Child,$30k-$40k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+7945,1115,1 Child,$30k-$40k,Part-time,29 and under,Some or completed secondary,Other,Canada
+7948,129,2 Children,$30k-$40k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7950,220,1 Child,$30k-$40k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+7952,985,2 Children,$30k-$40k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+7961,50,2 Children,$30k-$40k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Asia and Oceania
+7965,800,2 Children,$30k-$40k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+7967,1176,1 Child,$30k-$40k,Part-time,29 and under,Post-secondary diploma,No female head,Canada
+7970,180,1 Child,$30k-$40k,Full-time,29 and under,Post-secondary diploma,Blue collar,Canada
+7972,309,3 Children,$30k-$40k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7977,520,2 Children,$30k-$40k,No female head,No female head,No female head,No female head,No female head
+7979,413,2 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+7980,3200,2 Children,$30k-$40k,No female head,No female head,No female head,No female head,No female head
+7981,930,2 Children,$30k-$40k,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+7982,1007,1 Child,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+7983,905,2 Children,$30k-$40k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+7984,270,2 Children,$30k-$40k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+7988,1785,2 Children,$30k-$40k,Part-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+7991,836,2 Children,$30k-$40k,Full-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+7996,203,2 Children,$30k-$40k,Full-time,29 and under,Some or completed secondary,White collar,Canada
+7998,425,1 Child,$30k-$40k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+7999,775,1 Child,$30k-$40k,Full-time,29 and under,Some or completed secondary,White collar,Canada
+8000,160,2 Children,$30k-$40k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8002,600,1 Child,$30k-$40k,Full-time,30 to 39,Some post-secondary,White collar,Canada
+8004,1217,2 Children,$30k-$40k,Full-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+8010,1460,2 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,No female head,"US, N&W Europe"
+8021,1225,3 Children,$30k-$40k,Part-time,29 and under,Post-secondary diploma,Pink collar,Canada
+8023,85,1 Child,$30k-$40k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8026,171,1 Child,$30k-$40k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8031,1315,2 Children,$30k-$40k,No female head,No female head,No female head,No female head,No female head
+8034,90,1 Child,$30k-$40k,Part-time,29 and under,Post-secondary diploma,Pink collar,Canada
+8036,295,2 Children,$30k-$40k,Unemployed,29 and under,Some post-secondary,Non-working or retired,Canada
+8037,266,2 Children,$30k-$40k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8038,341,2 Children,$30k-$40k,Full-time,40 to 49,Some or completed secondary,White collar,Canada
+8041,250,4+ Children,$30k-$40k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8044,812,1 Child,$30k-$40k,Part-time,40 to 49,Some post-secondary,Pink collar,Canada
+8052,605,1 Child,$30k-$40k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8056,689,3 Children,$30k-$40k,Part-time,30 to 39,Some or completed secondary,White collar,Canada
+8058,400,2 Children,$40k-$50k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+8059,637,2 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,Other,Canada
+8061,890,2 Children,$40k-$50k,Full-time,29 and under,Some or completed secondary,White collar,Canada
+8063,343,2 Children,$40k-$50k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+8064,500,2 Children,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8066,695,3 Children,$40k-$50k,Full-time,30 to 39,Some post-secondary,No female head,Canada
+8070,724,3 Children,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8071,99,1 Child,$40k-$50k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8073,136,2 Children,$40k-$50k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+8075,591,3 Children,$40k-$50k,Full-time,29 and under,Some or completed secondary,No female head,Canada
+8079,385,1 Child,$40k-$50k,Part-time,30 to 39,Some or completed secondary,White collar,Canada
+8080,125,1 Child,$40k-$50k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+8082,510,1 Child,$40k-$50k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,"US, N&W Europe"
+8084,965,4+ Children,$40k-$50k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+8085,440,1 Child,$40k-$50k,Full-time,29 and under,Some post-secondary,No female head,Canada
+8088,175,1 Child,$40k-$50k,Full-time,30 to 39,Post-secondary diploma,White collar,"US, N&W Europe"
+8090,324,1 Child,$40k-$50k,Full-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+8092,1479,3 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8095,1132,2 Children,$40k-$50k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8096,280,2 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8098,655,1 Child,$40k-$50k,Part-time,29 and under,Some post-secondary,Pink collar,"US, N&W Europe"
+8099,512,2 Children,$40k-$50k,Full-time,30 to 39,Some post-secondary,White collar,Canada
+8104,886,2 Children,$40k-$50k,Full-time,30 to 39,Some post-secondary,White collar,S&E Europe
+8106,210,1 Child,$40k-$50k,Full-time,29 and under,Some post-secondary,Pink collar,Canada
+8110,270,1 Child,$40k-$50k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8111,360,2 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,Pink collar,Asia and Oceania
+8114,1075,2 Children,$40k-$50k,Full-time,29 and under,Some post-secondary,White collar,Canada
+8123,360,2 Children,$40k-$50k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8124,425,2 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8125,285,1 Child,$40k-$50k,Full-time,29 and under,Post-secondary diploma,Pink collar,Canada
+8126,1251,3 Children,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8130,377,1 Child,$40k-$50k,Full-time,50 to 59,Some or completed secondary,White collar,Canada
+8131,36,2 Children,$40k-$50k,Full-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+8144,407,3 Children,$40k-$50k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+8146,570,2 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8150,30,1 Child,$40k-$50k,Full-time,40 to 49,Some or completed secondary,White collar,Canada
+8153,569,2 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8155,872,3 Children,$40k-$50k,Full-time,30 to 39,Elementary or less,Pink collar,Asia and Oceania
+8156,72,1 Child,$40k-$50k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+8160,627,1 Child,$40k-$50k,Part-time,40 to 49,Post-secondary diploma,White collar,Canada
+8163,789,4+ Children,$40k-$50k,Part-time,40 to 49,Post-secondary diploma,No female head,Canada
+8166,470,2 Children,$40k-$50k,Part-time,29 and under,Post-secondary diploma,White collar,Canada
+8168,395,2 Children,$40k-$50k,Full-time,30 to 39,Post-secondary diploma,Other,Canada
+8170,1536,1 Child,$40k-$50k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8172,478,1 Child,$40k-$50k,Unemployed,30 to 39,Elementary or less,Non-working or retired,S&E Europe
+8176,390,1 Child,$50k-$60k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8178,883,1 Child,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8180,400,2 Children,$50k-$60k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,"US, N&W Europe"
+8183,1266,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8184,725,1 Child,$50k-$60k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8185,554,3 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,No female head,Canada
+8187,860,2 Children,$50k-$60k,Full-time,40 to 49,Unirvesity degree,Pink collar,Canada
+8189,365,2 Children,$50k-$60k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8190,710,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,No female head,Canada
+8191,1995,2 Children,$50k-$60k,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+8192,830,1 Child,$50k-$60k,Full-time,30 to 39,Some or completed secondary,Pink collar,Other
+8194,2539,3 Children,$50k-$60k,Part-time,40 to 49,Unirvesity degree,White collar,Canada
+8202,194,2 Children,$50k-$60k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8206,220,2 Children,$50k-$60k,Unemployed,30 to 39,Unirvesity degree,Non-working or retired,"US, N&W Europe"
+8207,239,2 Children,$50k-$60k,Part-time,40 to 49,Some post-secondary,White collar,Canada
+8210,1320,2 Children,$50k-$60k,Unemployed,50 to 59,Post-secondary diploma,Non-working or retired,Canada
+8214,487,3 Children,$50k-$60k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8218,700,2 Children,$50k-$60k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8219,465,2 Children,$50k-$60k,Full-time,29 and under,Post-secondary diploma,No female head,Canada
+8221,929,1 Child,$50k-$60k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8233,85,1 Child,$50k-$60k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+8237,405,2 Children,$50k-$60k,Full-time,30 to 39,Some or completed secondary,No female head,Canada
+8238,390,2 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,White collar,Canada
+8239,2570,2 Children,$50k-$60k,Part-time,30 to 39,Unirvesity degree,Pink collar,Canada
+8242,923,2 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,No female head,Canada
+8243,500,2 Children,$50k-$60k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8244,226,1 Child,$50k-$60k,Full-time,40 to 49,Some or completed secondary,Other,"US, N&W Europe"
+8255,2095,2 Children,$50k-$60k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8256,415,1 Child,$50k-$60k,Unemployed,50 to 59,Some or completed secondary,Non-working or retired,Canada
+8257,1945,3 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+8258,95,1 Child,$50k-$60k,No female head,No female head,No female head,No female head,No female head
+8262,300,2 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8263,1659,2 Children,$50k-$60k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8265,590,1 Child,$60k-$75k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8267,695,2 Children,$60k-$75k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8272,570,2 Children,$60k-$75k,Full-time,30 to 39,Some post-secondary,No female head,Canada
+8274,235,1 Child,$60k-$75k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8277,60,1 Child,$60k-$75k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+8278,1070,2 Children,$60k-$75k,Part-time,40 to 49,Unirvesity degree,White collar,"US, N&W Europe"
+8280,1019,1 Child,$60k-$75k,Full-time,29 and under,Post-secondary diploma,Blue collar,Canada
+8283,324,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8287,371,2 Children,$60k-$75k,Unemployed,50 to 59,Elementary or less,Non-working or retired,S&E Europe
+8290,1794,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8296,345,3 Children,$60k-$75k,Part-time,40 to 49,Unirvesity degree,White collar,"US, N&W Europe"
+8297,775,2 Children,$60k-$75k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8298,239,2 Children,$60k-$75k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Asia and Oceania
+8299,1167,3 Children,$60k-$75k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8301,580,2 Children,$60k-$75k,Full-time,40 to 49,Unirvesity degree,White collar,Asia and Oceania
+8302,292,2 Children,$60k-$75k,Part-time,30 to 39,Unirvesity degree,Pink collar,Canada
+8305,20,1 Child,$60k-$75k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8309,150,1 Child,$60k-$75k,Full-time,30 to 39,Post-secondary diploma,No female head,"US, N&W Europe"
+8314,661,2 Children,$60k-$75k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8315,225,1 Child,$60k-$75k,Full-time,30 to 39,Post-secondary diploma,White collar,"US, N&W Europe"
+8317,1100,3 Children,$60k-$75k,Part-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+8321,58,1 Child,$60k-$75k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8323,300,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8328,235,1 Child,$60k-$75k,Full-time,29 and under,Post-secondary diploma,Pink collar,Canada
+8329,195,1 Child,$60k-$75k,Full-time,30 to 39,Post-secondary diploma,White collar,Asia and Oceania
+8331,690,2 Children,$60k-$75k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8336,160,1 Child,$60k-$75k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8338,467,1 Child,$60k-$75k,Part-time,30 to 39,Some or completed secondary,White collar,Canada
+8341,2925,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8343,977,3 Children,$60k-$75k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,Canada
+8344,597,2 Children,$60k-$75k,Part-time,40 to 49,Post-secondary diploma,Pink collar,Canada
+8345,1580,4+ Children,$60k-$75k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8349,955,2 Children,$60k-$75k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8350,2180,2 Children,$60k-$75k,Full-time,30 to 39,Some post-secondary,White collar,Canada
+8352,2100,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8353,225,1 Child,$60k-$75k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+8357,200,1 Child,$60k-$75k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8360,807,2 Children,$75k-$100k,Part-time,40 to 49,Elementary or less,White collar,Canada
+8363,230,2 Children,$75k-$100k,Part-time,29 and under,Post-secondary diploma,White collar,Canada
+8364,885,2 Children,$75k-$100k,Part-time,29 and under,Post-secondary diploma,White collar,Canada
+8368,740,1 Child,$75k-$100k,Part-time,40 to 49,Post-secondary diploma,White collar,Canada
+8370,1005,2 Children,$75k-$100k,Full-time,40 to 49,Some or completed secondary,No female head,Canada
+8372,718,2 Children,$75k-$100k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8374,570,3 Children,$75k-$100k,Full-time,30 to 39,Some post-secondary,No female head,Canada
+8376,1464,2 Children,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,"US, N&W Europe"
+8377,525,1 Child,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,"US, N&W Europe"
+8378,1749,2 Children,$75k-$100k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8379,729,3 Children,$75k-$100k,Full-time,29 and under,Some post-secondary,White collar,Canada
+8380,933,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8382,2100,3 Children,$75k-$100k,Unemployed,40 to 49,Unirvesity degree,Non-working or retired,Canada
+8383,650,2 Children,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8384,630,1 Child,$75k-$100k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+8387,535,3 Children,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,White collar,Canada
+8388,1332,2 Children,$75k-$100k,Part-time,40 to 49,Unirvesity degree,White collar,Canada
+8389,2053,1 Child,$75k-$100k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8393,2027,2 Children,$75k-$100k,Full-time,40 to 49,Some post-secondary,Pink collar,Canada
+8398,125,1 Child,$75k-$100k,Full-time,29 and under,Unirvesity degree,White collar,Canada
+8400,373,2 Children,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8401,700,2 Children,$75k-$100k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8405,513,1 Child,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8406,1036,2 Children,$75k-$100k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+8407,670,2 Children,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8410,280,1 Child,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8414,460,2 Children,$75k-$100k,Part-time,40 to 49,Unirvesity degree,White collar,Canada
+8417,235,2 Children,$75k-$100k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8418,2200,2 Children,$75k-$100k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+8420,540,2 Children,$75k-$100k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8423,781,2 Children,$75k-$100k,Unemployed,30 to 39,Unirvesity degree,Non-working or retired,"US, N&W Europe"
+8431,1080,3 Children,$75k-$100k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+8432,1001,2 Children,$75k-$100k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8433,870,2 Children,$75k-$100k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+8435,48,1 Child,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8437,499,2 Children,$75k-$100k,Full-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+8438,2660,3 Children,$75k-$100k,Unemployed,40 to 49,Unirvesity degree,Non-working or retired,Canada
+8440,3185,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8443,3270,2 Children,$75k-$100k,Part-time,40 to 49,Some or completed secondary,Blue collar,Canada
+8444,1666,3 Children,$75k-$100k,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+8445,1196,2 Children,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8449,5940,2 Children,$75k-$100k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8453,50,1 Child,$100k+,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8454,513,1 Child,$100k+,Full-time,40 to 49,Some or completed secondary,White collar,"US, N&W Europe"
+8457,580,2 Children,$100k+,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8459,5409,4+ Children,$100k+,Part-time,30 to 39,Some post-secondary,Pink collar,Canada
+8460,1171,1 Child,$100k+,Full-time,30 to 39,Some post-secondary,White collar,Canada
+8461,770,2 Children,$100k+,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8463,785,1 Child,$100k+,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Asia and Oceania
+8466,815,1 Child,$100k+,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8468,818,3 Children,$100k+,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Asia and Oceania
+8470,855,2 Children,$100k+,Full-time,30 to 39,Unirvesity degree,White collar,"US, N&W Europe"
+8471,410,3 Children,$100k+,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8472,978,2 Children,$100k+,Unemployed,30 to 39,Unirvesity degree,Non-working or retired,Canada
+8474,725,1 Child,$100k+,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+8475,4496,1 Child,$100k+,Part-time,29 and under,Post-secondary diploma,White collar,Canada
+8476,585,2 Children,$100k+,Full-time,40 to 49,Some or completed secondary,No female head,"US, N&W Europe"
+8479,1700,2 Children,$100k+,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Other
+8483,610,3 Children,$100k+,Full-time,40 to 49,Post-secondary diploma,White collar,Canada
+8485,345,1 Child,$100k+,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8492,561,2 Children,$100k+,Full-time,40 to 49,Unirvesity degree,White collar,"US, N&W Europe"
+8493,2594,2 Children,$100k+,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8494,2905,1 Child,$100k+,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8496,200,1 Child,$100k+,Full-time,30 to 39,Unirvesity degree,Other,Canada
+8497,1530,3 Children,$100k+,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8498,1896,3 Children,$100k+,Full-time,40 to 49,Some or completed secondary,No female head,Canada
+8501,3676,2 Children,$100k+,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8502,1696,2 Children,$100k+,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+8503,4052,3 Children,$100k+,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+8505,1470,2 Children,$100k+,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+8507,528,2 Children,$100k+,Part-time,30 to 39,Unirvesity degree,No female head,Canada
+8509,4386,4+ Children,$100k+,Full-time,40 to 49,Post-secondary diploma,White collar,Canada
+8511,5545,2 Children,$100k+,Full-time,29 and under,Post-secondary diploma,Pink collar,"US, N&W Europe"
+8518,819,2 Children,$0-$20k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+8586,240,1 Child,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8593,181,1 Child,$0-$20k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+8605,193,1 Child,$0-$20k,Unemployed,30 to 39,Elementary or less,Non-working or retired,Asia and Oceania
+8607,360,1 Child,$0-$20k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Canada
+8610,185,2 Children,$0-$20k,Part-time,30 to 39,Some post-secondary,White collar,Canada
+8617,96,1 Child,$0-$20k,Unemployed,30 to 39,Elementary or less,Non-working or retired,Canada
+8635,738,2 Children,$0-$20k,Part-time,30 to 39,Post-secondary diploma,No female head,Canada
+8637,269,3 Children,$0-$20k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Other
+8645,180,1 Child,$0-$20k,Unemployed,30 to 39,Unirvesity degree,Non-working or retired,Canada
+8650,384,2 Children,$0-$20k,Part-time,29 and under,Post-secondary diploma,Pink collar,Other
+8652,205,1 Child,$0-$20k,Part-time,29 and under,Some or completed secondary,White collar,Canada
+8656,160,1 Child,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8659,115,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8663,133,2 Children,$0-$20k,Unemployed,30 to 39,Elementary or less,Non-working or retired,Canada
+8665,157,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8668,1665,2 Children,$0-$20k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,"US, N&W Europe"
+8669,495,1 Child,$0-$20k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8672,925,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8680,379,3 Children,$0-$20k,Part-time,40 to 49,Unirvesity degree,White collar,"US, N&W Europe"
+8694,300,1 Child,$0-$20k,Full-time,30 to 39,Some or completed secondary,White collar,Asia and Oceania
+8698,350,2 Children,$0-$20k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8700,600,3 Children,$0-$20k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Canada
+8705,765,4+ Children,$0-$20k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8707,815,1 Child,$0-$20k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+8708,1560,4+ Children,$0-$20k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+8711,1192,2 Children,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8722,750,1 Child,$20k-$30k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8761,90,1 Child,$20k-$30k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8763,450,2 Children,$20k-$30k,Full-time,30 to 39,Some or completed secondary,Blue collar,Asia and Oceania
+8769,1260,4+ Children,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8773,690,1 Child,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8779,72,1 Child,$20k-$30k,Unemployed,30 to 39,Unirvesity degree,Non-working or retired,Asia and Oceania
+8780,1575,2 Children,$20k-$30k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8781,101,1 Child,$20k-$30k,Unemployed,29 and under,Some post-secondary,Non-working or retired,Canada
+8789,1603,3 Children,$20k-$30k,Part-time,30 to 39,Some post-secondary,White collar,Canada
+8792,80,1 Child,$20k-$30k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Asia and Oceania
+8793,1033,2 Children,$20k-$30k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8798,87,1 Child,$20k-$30k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8810,171,2 Children,$20k-$30k,Full-time,30 to 39,Some post-secondary,Blue collar,"US, N&W Europe"
+8830,1725,2 Children,$20k-$30k,Full-time,40 to 49,Some or completed secondary,Pink collar,Asia and Oceania
+8833,300,2 Children,$20k-$30k,Part-time,30 to 39,Unirvesity degree,Pink collar,Asia and Oceania
+8837,486,2 Children,$20k-$30k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8840,163,2 Children,$20k-$30k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8841,365,1 Child,$20k-$30k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+8863,242,2 Children,$20k-$30k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Other
+8868,355,1 Child,$20k-$30k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+8870,464,1 Child,$20k-$30k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+8877,262,3 Children,$30k-$40k,Unemployed,29 and under,Some post-secondary,Non-working or retired,Canada
+8879,1590,2 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8887,1345,2 Children,$30k-$40k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+8891,1593,3 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+8896,1789,2 Children,$30k-$40k,Unemployed,No female head,Some or completed secondary,Non-working or retired,Canada
+8902,510,1 Child,$30k-$40k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8907,225,1 Child,$30k-$40k,Full-time,29 and under,Post-secondary diploma,Pink collar,S&E Europe
+8908,250,1 Child,$30k-$40k,Part-time,40 to 49,Some or completed secondary,Pink collar,Asia and Oceania
+8910,380,1 Child,$30k-$40k,Full-time,29 and under,Some post-secondary,Pink collar,Canada
+8911,2147,3 Children,$30k-$40k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8912,150,1 Child,$30k-$40k,Full-time,30 to 39,Some post-secondary,Pink collar,Asia and Oceania
+8919,865,4+ Children,$30k-$40k,Part-time,30 to 39,Some or completed secondary,White collar,"US, N&W Europe"
+8921,662,2 Children,$30k-$40k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+8922,385,1 Child,$30k-$40k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+8924,230,1 Child,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Blue collar,Canada
+8942,250,1 Child,$30k-$40k,Part-time,29 and under,Some post-secondary,Blue collar,Canada
+8943,445,1 Child,$30k-$40k,Full-time,50 to 59,Post-secondary diploma,White collar,"US, N&W Europe"
+8944,657,3 Children,$30k-$40k,Part-time,30 to 39,Some or completed secondary,Pink collar,"US, N&W Europe"
+8952,870,2 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Pink collar,"US, N&W Europe"
+8953,242,1 Child,$30k-$40k,Part-time,29 and under,Some or completed secondary,White collar,Canada
+8961,260,1 Child,$30k-$40k,Unemployed,29 and under,Some post-secondary,Non-working or retired,Canada
+8963,1528,3 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8966,114,1 Child,$30k-$40k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+8968,450,2 Children,$30k-$40k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8972,290,2 Children,$30k-$40k,Full-time,29 and under,Elementary or less,No female head,Asia and Oceania
+8973,430,1 Child,$30k-$40k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+8975,770,4+ Children,$30k-$40k,Unemployed,29 and under,Some or completed secondary,Non-working or retired,Canada
+8977,477,3 Children,$30k-$40k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Canada
+8978,170,1 Child,$30k-$40k,Unemployed,29 and under,Post-secondary diploma,Non-working or retired,Canada
+8980,516,2 Children,$30k-$40k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+8986,47,1 Child,$30k-$40k,Full-time,29 and under,Post-secondary diploma,White collar,Canada
+8987,965,2 Children,$30k-$40k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+8991,363,3 Children,$30k-$40k,Full-time,30 to 39,Elementary or less,No female head,Asia and Oceania
+8995,200,1 Child,$30k-$40k,Unemployed,60 and over,Some or completed secondary,Non-working or retired,Canada
+8997,456,1 Child,$30k-$40k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,"US, N&W Europe"
+9001,720,2 Children,$30k-$40k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9004,115,1 Child,$30k-$40k,Full-time,40 to 49,Unirvesity degree,Blue collar,Asia and Oceania
+9010,710,2 Children,$30k-$40k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9023,525,2 Children,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9026,920,3 Children,$40k-$50k,Part-time,29 and under,Post-secondary diploma,Pink collar,Canada
+9030,140,2 Children,$40k-$50k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+9035,475,2 Children,$40k-$50k,Part-time,30 to 39,Unirvesity degree,Pink collar,Canada
+9039,80,1 Child,$40k-$50k,Unemployed,60 and over,Post-secondary diploma,Non-working or retired,Canada
+9044,187,3 Children,$40k-$50k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9046,889,2 Children,$40k-$50k,Part-time,30 to 39,Some post-secondary,Pink collar,Canada
+9051,1840,2 Children,$40k-$50k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,Canada
+9053,75,2 Children,$40k-$50k,Full-time,29 and under,Some or completed secondary,White collar,"US, N&W Europe"
+9057,440,2 Children,$40k-$50k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+9059,1602,3 Children,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9067,775,2 Children,$40k-$50k,Part-time,30 to 39,Some post-secondary,Pink collar,Canada
+9069,450,2 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9070,490,2 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,Asia and Oceania
+9071,652,2 Children,$40k-$50k,Full-time,30 to 39,Some post-secondary,Blue collar,Canada
+9072,205,2 Children,$40k-$50k,Part-time,29 and under,Unirvesity degree,White collar,Canada
+9075,930,2 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9077,210,1 Child,$40k-$50k,Full-time,29 and under,Some or completed secondary,No female head,Canada
+9084,423,1 Child,$40k-$50k,Full-time,40 to 49,Post-secondary diploma,Pink collar,Canada
+9086,195,2 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,"US, N&W Europe"
+9087,1057,3 Children,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9089,176,2 Children,$40k-$50k,Unemployed,30 to 39,Unirvesity degree,Non-working or retired,"US, N&W Europe"
+9090,300,1 Child,$40k-$50k,Unemployed,40 to 49,Some post-secondary,Non-working or retired,Canada
+9091,1761,3 Children,$40k-$50k,Full-time,29 and under,Elementary or less,No female head,Asia and Oceania
+9092,95,1 Child,$40k-$50k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+9093,1615,2 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,White collar,Canada
+9094,377,2 Children,$40k-$50k,Part-time,30 to 39,Some or completed secondary,Other,Canada
+9096,819,2 Children,$40k-$50k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+9098,475,2 Children,$40k-$50k,No female head,No female head,No female head,No female head,No female head
+9100,530,4+ Children,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9103,1247,2 Children,$40k-$50k,Full-time,29 and under,Some or completed secondary,White collar,Canada
+9106,680,3 Children,$40k-$50k,Part-time,29 and under,Some or completed secondary,White collar,Canada
+9107,78,1 Child,$40k-$50k,Unemployed,60 and over,Some or completed secondary,Non-working or retired,Canada
+9110,350,2 Children,$40k-$50k,Part-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+9111,2271,3 Children,$40k-$50k,Part-time,40 to 49,Post-secondary diploma,No female head,"US, N&W Europe"
+9115,287,2 Children,$40k-$50k,Part-time,29 and under,Post-secondary diploma,White collar,Canada
+9116,1112,3 Children,$40k-$50k,Part-time,30 to 39,Post-secondary diploma,No female head,Canada
+9118,545,1 Child,$40k-$50k,Part-time,30 to 39,Some post-secondary,Pink collar,Canada
+9119,340,1 Child,$40k-$50k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9124,510,3 Children,$40k-$50k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+9127,175,1 Child,$40k-$50k,Full-time,30 to 39,Some or completed secondary,Blue collar,Asia and Oceania
+9134,724,3 Children,$50k-$60k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9138,742,4+ Children,$50k-$60k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+9142,495,2 Children,$50k-$60k,Full-time,40 to 49,Unirvesity degree,White collar,"US, N&W Europe"
+9144,975,3 Children,$50k-$60k,Full-time,40 to 49,Post-secondary diploma,Pink collar,Asia and Oceania
+9146,380,1 Child,$50k-$60k,Full-time,29 and under,Some or completed secondary,Pink collar,S&E Europe
+9148,1345,2 Children,$50k-$60k,Unemployed,30 to 39,Some post-secondary,Non-working or retired,Canada
+9149,352,1 Child,$50k-$60k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9150,428,2 Children,$50k-$60k,Part-time,40 to 49,Post-secondary diploma,Pink collar,Asia and Oceania
+9151,845,2 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Blue collar,Canada
+9152,270,1 Child,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9153,785,2 Children,$50k-$60k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+9154,1014,2 Children,$50k-$60k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,Canada
+9155,115,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9162,385,2 Children,$50k-$60k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9163,1230,1 Child,$50k-$60k,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+9164,689,2 Children,$50k-$60k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9165,910,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9168,75,2 Children,$50k-$60k,Part-time,30 to 39,Some post-secondary,White collar,Canada
+9174,788,2 Children,$50k-$60k,Full-time,30 to 39,Post-secondary diploma,White collar,Asia and Oceania
+9182,630,2 Children,$50k-$60k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9183,239,2 Children,$50k-$60k,Part-time,30 to 39,Unirvesity degree,Pink collar,Canada
+9185,640,2 Children,$50k-$60k,Full-time,40 to 49,Unirvesity degree,No female head,Asia and Oceania
+9191,255,2 Children,$50k-$60k,Full-time,29 and under,Post-secondary diploma,Pink collar,Canada
+9198,1070,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9202,200,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9203,2465,2 Children,$50k-$60k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+9205,995,3 Children,$50k-$60k,Part-time,30 to 39,Some post-secondary,Pink collar,Canada
+9208,660,2 Children,$50k-$60k,Part-time,29 and under,Unirvesity degree,No female head,Canada
+9211,70,1 Child,$50k-$60k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,"US, N&W Europe"
+9212,730,1 Child,$50k-$60k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,Canada
+9214,334,2 Children,$50k-$60k,Full-time,40 to 49,Some or completed secondary,Pink collar,"US, N&W Europe"
+9216,1084,2 Children,$50k-$60k,Part-time,29 and under,Some or completed secondary,Pink collar,Canada
+9217,390,2 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9220,995,1 Child,$50k-$60k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9223,540,1 Child,$50k-$60k,Full-time,29 and under,Post-secondary diploma,Pink collar,Canada
+9225,255,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9227,357,1 Child,$50k-$60k,No female head,No female head,No female head,No female head,No female head
+9229,1330,2 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Pink collar,"US, N&W Europe"
+9230,883,3 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9231,795,2 Children,$50k-$60k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+9232,1045,3 Children,$50k-$60k,Part-time,30 to 39,Some or completed secondary,Pink collar,"US, N&W Europe"
+9233,543,3 Children,$50k-$60k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+9234,305,1 Child,$50k-$60k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+9236,1450,3 Children,$50k-$60k,Part-time,30 to 39,Some post-secondary,Pink collar,Canada
+9245,344,2 Children,$50k-$60k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9249,211,1 Child,$60k-$75k,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
+9251,40,1 Child,$60k-$75k,Part-time,29 and under,Post-secondary diploma,White collar,Canada
+9255,1080,1 Child,$60k-$75k,Full-time,30 to 39,Not stated,Pink collar,Canada
+9261,949,3 Children,$60k-$75k,Part-time,30 to 39,Post-secondary diploma,No female head,Canada
+9268,1170,3 Children,$60k-$75k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+9273,605,1 Child,$60k-$75k,Part-time,29 and under,Some post-secondary,White collar,S&E Europe
+9277,350,2 Children,$60k-$75k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9282,690,1 Child,$60k-$75k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9283,1265,3 Children,$60k-$75k,Full-time,30 to 39,Elementary or less,Blue collar,Canada
+9284,720,3 Children,$60k-$75k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9285,2925,3 Children,$60k-$75k,Full-time,30 to 39,Elementary or less,White collar,Asia and Oceania
+9287,780,1 Child,$60k-$75k,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+9290,714,1 Child,$60k-$75k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9291,958,2 Children,$60k-$75k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9292,810,1 Child,$60k-$75k,Full-time,30 to 39,Post-secondary diploma,Pink collar,Canada
+9296,240,2 Children,$60k-$75k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+9298,195,1 Child,$60k-$75k,Full-time,29 and under,Some post-secondary,Pink collar,Canada
+9300,683,1 Child,$60k-$75k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9303,692,1 Child,$60k-$75k,Full-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9304,790,1 Child,$60k-$75k,Part-time,40 to 49,Some or completed secondary,White collar,Canada
+9307,746,2 Children,$60k-$75k,Full-time,40 to 49,Some post-secondary,White collar,Canada
+9309,346,2 Children,$60k-$75k,Unemployed,29 and under,Some post-secondary,Non-working or retired,Canada
+9311,1070,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,Pink collar,Asia and Oceania
+9312,770,2 Children,$60k-$75k,Part-time,30 to 39,Elementary or less,Pink collar,Canada
+9313,520,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+9314,125,1 Child,$60k-$75k,No female head,No female head,No female head,No female head,No female head
+9318,515,1 Child,$60k-$75k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9319,219,2 Children,$60k-$75k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+9321,952,2 Children,$60k-$75k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+9323,2625,3 Children,$60k-$75k,Unemployed,30 to 39,Post-secondary diploma,Non-working or retired,Canada
+9327,615,2 Children,$60k-$75k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9329,415,2 Children,$60k-$75k,Part-time,30 to 39,Some post-secondary,White collar,Canada
+9331,1500,2 Children,$60k-$75k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+9332,590,1 Child,$60k-$75k,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+9334,561,2 Children,$60k-$75k,Unemployed,40 to 49,Some or completed secondary,Non-working or retired,Canada
+9339,2220,2 Children,$60k-$75k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9340,1546,3 Children,$60k-$75k,Part-time,30 to 39,Some or completed secondary,No female head,Canada
+9350,720,3 Children,$75k-$100k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9351,715,2 Children,$75k-$100k,Full-time,40 to 49,Some or completed secondary,White collar,Other
+9352,960,2 Children,$75k-$100k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9356,2395,2 Children,$75k-$100k,Full-time,29 and under,Some post-secondary,Pink collar,Canada
+9358,1396,2 Children,$75k-$100k,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9363,500,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+9364,475,2 Children,$75k-$100k,Part-time,40 to 49,Unirvesity degree,No female head,Asia and Oceania
+9366,936,2 Children,$75k-$100k,Part-time,40 to 49,Unirvesity degree,White collar,Canada
+9367,1015,1 Child,$75k-$100k,Part-time,40 to 49,Some or completed secondary,Pink collar,Asia and Oceania
+9369,410,2 Children,$75k-$100k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9370,802,2 Children,$75k-$100k,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9372,1560,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,No female head,Canada
+9373,570,1 Child,$75k-$100k,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,"US, N&W Europe"
+9374,370,2 Children,$75k-$100k,Part-time,40 to 49,Unirvesity degree,White collar,Canada
+9375,1374,2 Children,$75k-$100k,Unemployed,30 to 39,Some or completed secondary,Non-working or retired,Canada
+9379,370,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9380,1280,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,Pink collar,"US, N&W Europe"
+9382,445,1 Child,$75k-$100k,Full-time,40 to 49,Unirvesity degree,Pink collar,Canada
+9385,1075,2 Children,$75k-$100k,Unemployed,40 to 49,Unirvesity degree,Non-working or retired,Canada
+9387,1445,1 Child,$75k-$100k,Full-time,29 and under,Some or completed secondary,Pink collar,Canada
+9391,1960,3 Children,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,Pink collar,Canada
+9392,537,2 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9395,1015,3 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,White collar,"US, N&W Europe"
+9397,4830,3 Children,$75k-$100k,Part-time,40 to 49,Unirvesity degree,White collar,Canada
+9399,1422,3 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9400,1520,1 Child,$75k-$100k,Full-time,30 to 39,Unirvesity degree,White collar,Canada
+9403,1205,1 Child,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,White collar,"US, N&W Europe"
+9404,580,2 Children,$75k-$100k,Part-time,40 to 49,Some or completed secondary,Pink collar,Canada
+9405,235,2 Children,$75k-$100k,Part-time,29 and under,Some or completed secondary,No female head,Canada
+9408,620,1 Child,$75k-$100k,Part-time,40 to 49,Post-secondary diploma,White collar,Canada
+9411,715,2 Children,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,Pink collar,Canada
+9420,295,1 Child,$75k-$100k,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+9424,315,2 Children,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,White collar,Canada
+9427,810,1 Child,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,White collar,Canada
+9429,846,2 Children,$75k-$100k,Full-time,30 to 39,Post-secondary diploma,White collar,"US, N&W Europe"
+9431,1729,2 Children,$75k-$100k,Full-time,30 to 39,Some post-secondary,White collar,Canada
+9435,1818,3 Children,$75k-$100k,Part-time,40 to 49,Some or completed secondary,Pink collar,"US, N&W Europe"
+9438,2078,2 Children,$75k-$100k,Part-time,40 to 49,Some post-secondary,No female head,"US, N&W Europe"
+9439,1219,3 Children,$75k-$100k,Full-time,30 to 39,Some or completed secondary,White collar,Canada
+9440,864,2 Children,$75k-$100k,Full-time,40 to 49,Post-secondary diploma,Blue collar,"US, N&W Europe"
+9448,1960,3 Children,$100k+,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+9453,645,3 Children,$100k+,Unemployed,40 to 49,Post-secondary diploma,Non-working or retired,Canada
+9455,1400,1 Child,$100k+,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+9461,268,1 Child,$100k+,Full-time,30 to 39,Post-secondary diploma,White collar,"US, N&W Europe"
+9470,755,2 Children,$100k+,Full-time,30 to 39,Some post-secondary,Pink collar,Canada
+9472,190,2 Children,$100k+,Full-time,30 to 39,Post-secondary diploma,No female head,Canada
+9474,765,2 Children,$100k+,Part-time,30 to 39,Unirvesity degree,White collar,Canada
+9476,808,1 Child,$100k+,Part-time,30 to 39,Some or completed secondary,Pink collar,Canada
+9480,1290,2 Children,$100k+,Part-time,30 to 39,Post-secondary diploma,White collar,Canada
+9481,1230,2 Children,$100k+,Full-time,40 to 49,Unirvesity degree,White collar,Canada
+9490,2030,1 Child,$100k+,Full-time,30 to 39,Post-secondary diploma,White collar,Canada
