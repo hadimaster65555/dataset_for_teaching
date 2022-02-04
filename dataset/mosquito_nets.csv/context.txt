@@ -1,0 +1,14 @@
+# Context
+
+Researchers are interested in whether using mosquito nets decreases an individual’s risk of contracting malaria. They have collected data from 1,752 households in an unnamed country and have variables related to environmental factors, individual health, and household characteristics. The data is not experimental—researchers have no control over who uses mosquito nets, and individual households make their own choices over whether to apply for free nets or buy their own nets, as well as whether they use the nets if they have them.
+
+Data:
+
+- Malaria risk (malaria_risk): The likelihood that someone in the household will be infected with malaria. Measured on a scale of 0–100, with higher values indicating higher risk.
+- Mosquito net (net and net_num): A binary variable indicating if the household used mosquito nets.
+- Eligible for program (eligible): A binary variable indicating if the household is eligible for the free net program.
+- Income (income): The household’s monthly income, in US dollars.
+- Nighttime temperatures (temperature): The average temperature at night, in Celsius.
+- Health (health): Self-reported healthiness in the household. Measured on a scale of 0–100, with higher values indicating better health.
+- Number in household (household): Number of people living in the household.
+- Insecticide resistance (resistance): Some strains of mosquitoes are more resistant to insecticide and thus pose a higher risk of infecting people with malaria. This is measured on a scale of 0–100, with higher values indicating higher resistance.
