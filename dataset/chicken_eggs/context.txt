@@ -1,0 +1,9 @@
+# Context
+
+An annual time series from 1930 to 1983 with 2 variables.
+
+chicken
+number of chickens (December 1 population of all US chickens excluding commercial broilers),
+
+egg
+number of eggs (US egg production in millions of dozens).
