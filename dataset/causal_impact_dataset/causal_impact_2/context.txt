@@ -1,0 +1,10 @@
+# Context
+
+We apply the analysis on a clinical trial in which the efficiency of a preventer inhaler is evaluated in a patient with Asthma. The main outcome (Peakflow) was daily monitored during 2 months (60 days) before and after the beginning of treatment.
+
+The study question is whether the use of preventer inhaler from day 61 has significantly improved the Peakflow during the treatment. In other word, we should make a causal inference about the beneficial effect of treatment on Peakflow.
+
+Data:
+- Peakflow: target variable
+- SBP: placebo
+- Treatment: Before and After treatment flagging

@@ -1,0 +1,7 @@
+# Context
+
+One company did big organizational change on sales department on 2015-04-16. We want to see if there any impact on sales.
+
+Data:
+- Date
+- Sales

@@ -1,0 +1,7 @@
+# Context
+
+We want to check if there's any impact on campaign by comparing experiment with control group. The campaign start at timepoint 71.
+
+Data:
+y: Experiment group
+x1: Control group
