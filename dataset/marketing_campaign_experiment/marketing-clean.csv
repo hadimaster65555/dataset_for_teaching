@@ -1,0 +1,578 @@
+user_id,date_served,marketing_channel,variant,converted,language_displayed,language_preferred,age_group,date_subscribed,date_canceled,subscribing_channel,is_retained,conversion
+a100000040,1/1/18,House Ads,personalization,True,English,English,19-24 years,1/1/18,1/18/18,House Ads,False,1
+a100000041,1/1/18,House Ads,personalization,True,Arabic,Arabic,24-30 years,1/1/18,2/22/18,House Ads,False,1
+a100000042,1/1/18,House Ads,personalization,True,English,English,0-18 years,1/1/18,3/9/18,House Ads,False,1
+a100000043,1/1/18,House Ads,personalization,True,English,English,19-24 years,1/1/18,2/18/18,House Ads,False,1
+a100000044,1/1/18,House Ads,personalization,True,Arabic,Arabic,24-30 years,1/1/18,3/3/18,House Ads,False,1
+a100000045,1/2/18,House Ads,personalization,True,English,English,0-18 years,1/2/18,2/4/18,House Ads,False,1
+a100000046,1/2/18,House Ads,personalization,True,English,English,19-24 years,1/2/18,1/9/18,House Ads,False,1
+a100000047,1/2/18,House Ads,personalization,True,English,English,24-30 years,1/2/18,2/4/18,House Ads,False,1
+a100000048,1/2/18,House Ads,personalization,True,German,German,0-18 years,1/2/18,1/21/18,House Ads,False,1
+a100000059,1/2/18,House Ads,personalization,True,English,English,19-24 years,1/2/18,2/19/18,House Ads,False,1
+a100000059,1/1/18,Facebook,personalization,False,English,English,19-24 years,1/2/18,2/19/18,House Ads,False,0
+a100000060,1/2/18,House Ads,personalization,True,German,German,24-30 years,1/2/18,3/8/18,House Ads,False,1
+a100000060,1/1/18,House Ads,personalization,False,German,German,24-30 years,1/2/18,3/8/18,House Ads,False,0
+a100000061,1/2/18,House Ads,personalization,True,English,English,0-18 years,1/2/18,2/5/18,House Ads,False,1
+a100000061,1/1/18,House Ads,personalization,False,English,English,0-18 years,1/2/18,2/5/18,House Ads,False,0
+a100000062,1/3/18,House Ads,personalization,True,English,English,19-24 years,1/3/18,1/11/18,House Ads,False,1
+a100000062,1/1/18,House Ads,personalization,False,English,English,19-24 years,1/3/18,1/11/18,House Ads,False,0
+a100000063,1/3/18,House Ads,personalization,True,English,English,24-30 years,1/3/18,1/6/18,House Ads,False,1
+a100000063,1/1/18,House Ads,personalization,False,English,English,24-30 years,1/3/18,1/6/18,House Ads,False,0
+a100000064,1/3/18,House Ads,personalization,True,English,English,0-18 years,1/3/18,3/1/18,House Ads,False,1
+a100000064,1/1/18,Push,personalization,False,English,English,0-18 years,1/3/18,3/1/18,House Ads,False,0
+a100000065,1/3/18,House Ads,personalization,True,English,English,19-24 years,1/3/18,4/2/18,House Ads,False,1
+a100000065,1/1/18,House Ads,personalization,False,English,English,19-24 years,1/3/18,4/2/18,House Ads,False,0
+a100000066,1/3/18,House Ads,personalization,True,English,English,24-30 years,1/3/18,3/2/18,House Ads,False,1
+a100000066,1/1/18,House Ads,personalization,False,English,English,24-30 years,1/3/18,3/2/18,House Ads,False,0
+a100000067,1/3/18,House Ads,control,True,English,English,0-18 years,1/3/18,1/5/18,House Ads,False,1
+a100000088,1/4/18,House Ads,control,True,Spanish,Spanish,45-55 years,1/4/18,1/11/18,House Ads,False,1
+a100000089,1/4/18,House Ads,control,True,English,English,55+ years,1/4/18,2/9/18,House Ads,False,1
+a100000090,1/4/18,House Ads,control,True,English,English,0-18 years,1/4/18,3/25/18,House Ads,False,1
+a100000091,1/4/18,House Ads,control,True,English,English,19-24 years,1/4/18,1/6/18,House Ads,False,1
+a100000092,1/4/18,House Ads,control,True,English,English,24-30 years,1/4/18,3/12/18,House Ads,False,1
+a100000093,1/4/18,House Ads,control,True,English,English,30-36 years,1/4/18,3/10/18,House Ads,False,1
+a100000094,1/4/18,House Ads,control,True,English,English,36-45 years,1/4/18,2/14/18,House Ads,False,1
+a100000095,1/4/18,House Ads,control,True,Spanish,Spanish,45-55 years,1/4/18,1/23/18,House Ads,False,1
+a100000096,1/5/18,House Ads,control,True,English,English,55+ years,1/5/18,2/11/18,House Ads,False,1
+a100000101,1/5/18,House Ads,control,True,English,English,36-45 years,1/5/18,4/13/18,House Ads,False,1
+a100000101,1/4/18,House Ads,control,False,English,English,36-45 years,1/5/18,4/13/18,House Ads,False,0
+a100000102,1/5/18,House Ads,control,True,English,English,45-55 years,1/5/18,4/12/18,House Ads,False,1
+a100000102,1/4/18,House Ads,control,False,English,English,45-55 years,1/5/18,4/12/18,House Ads,False,0
+a100000103,1/5/18,House Ads,control,True,Spanish,Spanish,55+ years,1/5/18,4/3/18,House Ads,False,1
+a100000103,1/4/18,House Ads,control,False,Spanish,Spanish,55+ years,1/5/18,4/3/18,House Ads,False,0
+a100000104,1/5/18,House Ads,control,True,English,English,0-18 years,1/5/18,2/17/18,House Ads,False,1
+a100000104,1/4/18,House Ads,control,False,English,English,0-18 years,1/5/18,2/17/18,House Ads,False,0
+a100000105,1/5/18,House Ads,control,True,English,English,19-24 years,1/5/18,4/14/18,House Ads,False,1
+a100000105,1/4/18,House Ads,control,False,English,English,19-24 years,1/5/18,4/14/18,House Ads,False,0
+a100000107,1/5/18,House Ads,control,True,English,English,24-30 years,1/5/18,1/11/18,House Ads,False,1
+a100000107,1/4/18,House Ads,control,False,English,English,24-30 years,1/5/18,1/11/18,House Ads,False,0
+a100000108,1/5/18,House Ads,control,True,English,English,30-36 years,1/5/18,2/3/18,House Ads,False,1
+a100000108,1/4/18,House Ads,control,False,English,English,30-36 years,1/5/18,2/3/18,House Ads,False,0
+a100000109,1/5/18,House Ads,control,True,Spanish,Spanish,36-45 years,1/5/18,1/8/18,House Ads,False,1
+a100000109,1/4/18,House Ads,control,False,Spanish,Spanish,36-45 years,1/5/18,1/8/18,House Ads,False,0
+a100000110,1/5/18,House Ads,control,True,Spanish,Spanish,45-55 years,1/5/18,1/27/18,House Ads,False,1
+a100000110,1/4/18,House Ads,control,False,Spanish,Spanish,45-55 years,1/5/18,1/27/18,House Ads,False,0
+a100000164,1/6/18,House Ads,control,True,English,English,0-18 years,1/6/18,3/10/18,House Ads,False,1
+a100000165,1/7/18,House Ads,control,True,Arabic,Arabic,19-24 years,1/7/18,3/11/18,House Ads,False,1
+a100000166,1/7/18,House Ads,control,True,English,English,24-30 years,1/7/18,3/25/18,House Ads,False,1
+a100000167,1/7/18,House Ads,control,True,English,English,30-36 years,1/7/18,2/21/18,House Ads,False,1
+a100000168,1/7/18,House Ads,control,True,English,English,36-45 years,1/7/18,2/25/18,House Ads,False,1
+a100000169,1/7/18,House Ads,control,True,English,English,45-55 years,1/7/18,3/5/18,House Ads,False,1
+a100000170,1/7/18,House Ads,control,True,English,English,55+ years,1/7/18,4/16/18,House Ads,False,1
+a100000171,1/7/18,House Ads,control,True,English,English,0-18 years,1/7/18,2/6/18,House Ads,False,1
+a100000172,1/7/18,House Ads,control,True,German,German,19-24 years,1/7/18,2/5/18,House Ads,False,1
+a100000260,1/7/18,House Ads,control,True,Spanish,Spanish,45-55 years,1/7/18,1/14/18,House Ads,False,1
+a100000261,1/8/18,House Ads,control,True,English,English,55+ years,1/8/18,3/13/18,House Ads,False,1
+a100000262,1/8/18,House Ads,control,True,English,English,0-18 years,1/8/18,2/22/18,House Ads,False,1
+a100000263,1/8/18,House Ads,control,True,English,English,19-24 years,1/8/18,1/11/18,House Ads,False,1
+a100000264,1/8/18,House Ads,control,True,German,German,24-30 years,1/8/18,3/19/18,House Ads,False,1
+a100000265,1/8/18,House Ads,control,True,German,German,30-36 years,1/8/18,2/10/18,House Ads,False,1
+a100000266,1/8/18,House Ads,control,True,English,English,36-45 years,1/8/18,3/30/18,House Ads,False,1
+a100000267,1/8/18,House Ads,control,True,English,English,45-55 years,1/8/18,1/15/18,House Ads,False,1
+a100000268,1/8/18,House Ads,control,True,English,English,55+ years,1/8/18,2/21/18,House Ads,False,1
+a100000294,1/9/18,House Ads,control,True,English,English,36-45 years,1/9/18,1/14/18,House Ads,False,1
+a100000295,1/9/18,House Ads,control,True,English,English,45-55 years,1/9/18,2/4/18,House Ads,False,1
+a100000296,1/9/18,House Ads,control,True,English,English,55+ years,1/9/18,2/4/18,House Ads,False,1
+a100000297,1/10/18,House Ads,control,True,German,German,0-18 years,1/10/18,2/9/18,House Ads,False,1
+a100000298,1/10/18,House Ads,control,True,German,German,19-24 years,1/10/18,1/21/18,House Ads,False,1
+a100000299,1/10/18,House Ads,control,True,English,English,24-30 years,1/10/18,3/7/18,House Ads,False,1
+a100000300,1/10/18,House Ads,control,True,English,English,30-36 years,1/10/18,4/10/18,House Ads,False,1
+a100000301,1/10/18,House Ads,control,True,Spanish,Spanish,36-45 years,1/10/18,4/16/18,House Ads,False,1
+a100000302,1/10/18,House Ads,control,True,English,English,45-55 years,1/10/18,3/26/18,House Ads,False,1
+a100000317,1/10/18,House Ads,personalization,True,Spanish,Spanish,55+ years,1/10/18,4/19/18,House Ads,False,1
+a100000318,1/11/18,House Ads,personalization,True,English,English,0-18 years,1/11/18,3/4/18,House Ads,False,1
+a100000319,1/12/18,House Ads,personalization,True,English,Spanish,19-24 years,1/12/18,1/26/18,House Ads,False,1
+a100000320,1/13/18,House Ads,personalization,True,English,English,24-30 years,1/13/18,4/5/18,House Ads,False,1
+a100000321,1/14/18,House Ads,personalization,True,English,English,30-36 years,1/14/18,1/26/18,House Ads,False,1
+a100000322,1/15/18,House Ads,personalization,True,English,English,36-45 years,1/15/18,3/15/18,House Ads,False,1
+a100000323,1/16/18,House Ads,personalization,True,English,English,45-55 years,1/16/18,4/22/18,House Ads,False,1
+a100000324,1/17/18,House Ads,personalization,True,English,English,55+ years,1/17/18,2/11/18,House Ads,False,1
+a100000325,1/18/18,House Ads,personalization,True,English,English,0-18 years,1/18/18,1/23/18,House Ads,False,1
+a100000337,1/30/18,House Ads,personalization,True,English,English,0-18 years,1/30/18,2/9/18,House Ads,False,1
+a100000337,1/10/18,Instagram,personalization,False,English,English,0-18 years,1/30/18,2/9/18,House Ads,False,0
+a100000338,1/31/18,House Ads,personalization,True,English,English,19-24 years,1/31/18,4/29/18,House Ads,False,1
+a100000338,1/10/18,Facebook,personalization,False,English,English,19-24 years,1/31/18,4/29/18,House Ads,False,0
+a100000339,1/11/18,House Ads,personalization,True,English,English,24-30 years,1/11/18,3/10/18,House Ads,False,1
+a100000339,1/10/18,House Ads,personalization,False,English,English,24-30 years,1/11/18,3/10/18,House Ads,False,0
+a100000340,1/12/18,House Ads,personalization,True,English,English,0-18 years,1/12/18,3/8/18,House Ads,False,1
+a100000340,1/10/18,House Ads,personalization,False,English,English,0-18 years,1/12/18,3/8/18,House Ads,False,0
+a100000341,1/13/18,House Ads,personalization,True,English,English,19-24 years,1/13/18,4/17/18,House Ads,False,1
+a100000341,1/10/18,House Ads,personalization,False,English,English,19-24 years,1/13/18,4/17/18,House Ads,False,0
+a100000342,1/14/18,House Ads,personalization,True,English,English,24-30 years,1/14/18,3/1/18,House Ads,False,1
+a100000342,1/10/18,House Ads,personalization,False,English,English,24-30 years,1/14/18,3/1/18,House Ads,False,0
+a100000343,1/15/18,House Ads,personalization,True,English,English,30-36 years,1/15/18,3/9/18,House Ads,False,1
+a100000343,1/10/18,Push,personalization,False,English,English,30-36 years,1/15/18,3/9/18,House Ads,False,0
+a100000344,1/16/18,House Ads,personalization,True,English,English,36-45 years,1/16/18,3/7/18,House Ads,False,1
+a100000344,1/10/18,House Ads,personalization,False,English,English,36-45 years,1/16/18,3/7/18,House Ads,False,0
+a100000345,1/17/18,House Ads,personalization,True,English,Spanish,45-55 years,1/17/18,2/8/18,House Ads,False,1
+a100000345,1/10/18,House Ads,personalization,False,Spanish,Spanish,45-55 years,1/17/18,2/8/18,House Ads,False,0
+a100000349,1/21/18,House Ads,personalization,True,English,English,24-30 years,1/21/18,3/4/18,House Ads,False,1
+a100000349,1/10/18,Instagram,personalization,False,English,English,24-30 years,1/21/18,3/4/18,House Ads,False,0
+a100000350,1/22/18,House Ads,personalization,True,English,English,0-18 years,1/22/18,2/22/18,House Ads,False,1
+a100000350,1/10/18,Instagram,personalization,False,English,English,0-18 years,1/22/18,2/22/18,House Ads,False,0
+a100000351,1/23/18,House Ads,personalization,True,English,English,19-24 years,1/23/18,4/22/18,House Ads,False,1
+a100000351,1/10/18,House Ads,personalization,False,English,English,19-24 years,1/23/18,4/22/18,House Ads,False,0
+a100000352,1/24/18,House Ads,personalization,True,English,English,24-30 years,1/24/18,1/25/18,House Ads,False,1
+a100000352,1/10/18,House Ads,personalization,False,English,English,24-30 years,1/24/18,1/25/18,House Ads,False,0
+a100000353,1/25/18,House Ads,personalization,True,English,German,0-18 years,1/25/18,3/27/18,House Ads,False,1
+a100000353,1/10/18,House Ads,personalization,False,German,German,0-18 years,1/25/18,3/27/18,House Ads,False,0
+a100000354,1/26/18,House Ads,personalization,True,English,English,19-24 years,1/26/18,3/25/18,House Ads,False,1
+a100000355,1/27/18,House Ads,personalization,True,English,Arabic,24-30 years,1/27/18,2/17/18,House Ads,False,1
+a100000356,1/28/18,House Ads,personalization,True,English,Spanish,0-18 years,1/28/18,3/1/18,House Ads,False,1
+a100000357,1/29/18,House Ads,personalization,True,English,English,19-24 years,1/29/18,2/20/18,House Ads,False,1
+a100000360,1/11/18,House Ads,personalization,True,English,English,19-24 years,1/11/18,2/24/18,House Ads,False,1
+a100000361,1/12/18,House Ads,personalization,True,English,English,24-30 years,1/12/18,2/21/18,House Ads,False,1
+a100000362,1/13/18,House Ads,control,True,English,German,0-18 years,1/13/18,2/12/18,House Ads,False,1
+a100000363,1/14/18,House Ads,control,True,English,English,19-24 years,1/14/18,2/18/18,House Ads,False,1
+a100000364,1/15/18,House Ads,control,True,English,English,24-30 years,1/15/18,3/17/18,House Ads,False,1
+a100000365,1/16/18,House Ads,control,True,English,English,30-36 years,1/16/18,3/29/18,House Ads,False,1
+a100000366,1/17/18,House Ads,control,True,English,Spanish,36-45 years,1/17/18,2/16/18,House Ads,False,1
+a100000367,1/18/18,House Ads,control,True,English,English,45-55 years,1/18/18,2/10/18,House Ads,False,1
+a100000368,1/19/18,House Ads,control,True,English,English,55+ years,1/19/18,4/6/18,House Ads,False,1
+a100000378,1/29/18,House Ads,control,True,English,English,24-30 years,1/29/18,4/9/18,House Ads,False,1
+a100000379,1/30/18,House Ads,control,True,English,Spanish,30-36 years,1/30/18,3/23/18,House Ads,False,1
+a100000380,1/31/18,House Ads,control,True,English,English,36-45 years,1/31/18,5/9/18,House Ads,False,1
+a100000381,1/11/18,House Ads,control,True,English,English,45-55 years,1/11/18,3/20/18,House Ads,False,1
+a100000382,1/12/18,House Ads,control,True,English,English,55+ years,1/12/18,2/5/18,House Ads,False,1
+a100000383,1/13/18,House Ads,control,True,English,English,0-18 years,1/13/18,3/19/18,House Ads,False,1
+a100000384,1/14/18,House Ads,control,True,English,English,19-24 years,1/14/18,1/28/18,House Ads,False,1
+a100000385,1/15/18,House Ads,control,True,English,English,24-30 years,1/15/18,3/22/18,House Ads,False,1
+a100000386,1/16/18,House Ads,control,True,English,English,30-36 years,1/16/18,2/1/18,House Ads,False,1
+a100000387,1/17/18,House Ads,control,True,English,Spanish,36-45 years,1/17/18,2/3/18,House Ads,False,1
+a100000388,1/18/18,House Ads,control,True,English,German,45-55 years,1/18/18,3/31/18,House Ads,False,1
+a100000389,1/19/18,House Ads,control,True,English,English,55+ years,1/19/18,4/19/18,House Ads,False,1
+a100000390,1/20/18,House Ads,control,True,English,Arabic,0-18 years,1/20/18,1/31/18,House Ads,False,1
+a100000391,1/21/18,House Ads,control,True,English,English,19-24 years,1/21/18,4/3/18,House Ads,False,1
+a100000392,1/22/18,House Ads,control,True,English,English,24-30 years,1/22/18,2/16/18,House Ads,False,1
+a100000393,1/23/18,House Ads,control,True,English,English,30-36 years,1/23/18,3/28/18,House Ads,False,1
+a100000394,1/24/18,House Ads,control,True,English,English,36-45 years,1/24/18,2/20/18,House Ads,False,1
+a100000398,1/28/18,House Ads,personalization,True,English,English,19-24 years,1/28/18,2/5/18,House Ads,False,1
+a100000399,1/29/18,House Ads,personalization,True,English,Arabic,24-30 years,1/29/18,3/9/18,House Ads,False,1
+a100000400,1/30/18,House Ads,personalization,True,English,English,30-36 years,1/30/18,4/8/18,House Ads,False,1
+a100000401,1/31/18,House Ads,personalization,True,English,Arabic,36-45 years,1/31/18,4/19/18,House Ads,False,1
+a100000402,1/11/18,House Ads,personalization,True,English,English,45-55 years,1/11/18,2/25/18,House Ads,False,1
+a100000403,1/13/18,House Ads,personalization,True,English,English,55+ years,1/13/18,1/24/18,House Ads,False,1
+a100000404,1/14/18,House Ads,personalization,True,English,English,0-18 years,1/14/18,1/22/18,House Ads,False,1
+a100000405,1/15/18,House Ads,personalization,True,English,English,19-24 years,1/15/18,4/8/18,House Ads,False,1
+a100000406,1/16/18,House Ads,personalization,True,English,English,24-30 years,1/16/18,3/13/18,House Ads,False,1
+a100000536,1/11/18,Facebook,personalization,True,English,English,0-18 years,1/11/18,3/26/18,Facebook,False,1
+a100000537,1/12/18,Instagram,personalization,True,English,English,19-24 years,1/12/18,2/25/18,Instagram,False,1
+a100000538,1/13/18,Email,personalization,True,Arabic,Arabic,24-30 years,1/13/18,1/23/18,Email,False,1
+a100000539,1/14/18,Push,personalization,True,English,English,0-18 years,1/14/18,2/28/18,Push,False,1
+a100000540,1/15/18,Facebook,personalization,True,English,English,19-24 years,1/15/18,3/25/18,Facebook,False,1
+a100000541,1/16/18,Instagram,personalization,True,English,English,24-30 years,1/16/18,3/12/18,Instagram,False,1
+a100000542,1/17/18,Email,personalization,True,English,English,0-18 years,1/17/18,2/12/18,Email,False,1
+a100000543,1/18/18,Push,personalization,True,English,English,19-24 years,1/18/18,4/27/18,Push,False,1
+a100000544,1/19/18,Facebook,personalization,True,English,English,24-30 years,1/19/18,1/29/18,Facebook,False,1
+a100000555,1/30/18,Push,personalization,True,English,English,36-45 years,1/30/18,5/2/18,Push,False,1
+a100000556,1/31/18,Facebook,personalization,True,English,English,45-55 years,1/31/18,3/5/18,Facebook,False,1
+a100000557,1/1/18,Instagram,personalization,True,English,English,55+ years,1/1/18,1/9/18,Instagram,False,1
+a100000558,1/2/18,Email,personalization,True,English,English,0-18 years,1/2/18,3/26/18,Email,False,1
+a100000559,1/3/18,Push,personalization,True,English,English,19-24 years,1/3/18,1/6/18,Push,False,1
+a100000560,1/4/18,Facebook,personalization,True,English,English,24-30 years,1/4/18,1/25/18,Facebook,False,1
+a100000561,1/5/18,Instagram,personalization,True,English,English,0-18 years,1/5/18,4/7/18,Instagram,False,1
+a100000562,1/6/18,Email,personalization,False,English,English,19-24 years,1/6/18,2/15/18,Email,False,0
+a100000563,1/7/18,Push,personalization,True,English,English,24-30 years,1/7/18,1/10/18,Push,False,1
+a100000571,1/15/18,Facebook,personalization,True,English,English,19-24 years,1/15/18,2/26/18,Facebook,False,1
+a100000572,1/16/18,Facebook,personalization,True,English,English,24-30 years,1/16/18,1/23/18,Facebook,False,1
+a100000573,1/17/18,Facebook,personalization,True,English,English,0-18 years,1/17/18,1/21/18,Facebook,False,1
+a100000574,1/18/18,Facebook,personalization,True,English,English,19-24 years,1/18/18,1/19/18,Facebook,False,1
+a100000575,1/19/18,Facebook,personalization,True,English,English,24-30 years,1/19/18,2/23/18,Facebook,False,1
+a100000576,1/20/18,Facebook,personalization,True,English,English,30-36 years,1/20/18,4/21/18,Facebook,False,1
+a100000577,1/21/18,Facebook,personalization,True,English,English,36-45 years,1/21/18,3/31/18,Facebook,False,1
+a100000578,1/22/18,Facebook,personalization,True,English,English,45-55 years,1/22/18,4/2/18,Facebook,False,1
+a100000579,1/23/18,Facebook,personalization,True,English,English,55+ years,1/23/18,2/16/18,Facebook,False,1
+a100000596,1/9/18,Facebook,personalization,True,English,English,24-30 years,1/9/18,4/3/18,Facebook,False,1
+a100000597,1/10/18,Facebook,personalization,True,English,English,0-18 years,1/10/18,1/25/18,Facebook,False,1
+a100000598,1/11/18,Facebook,personalization,True,English,English,19-24 years,1/11/18,2/3/18,Facebook,False,1
+a100000599,1/12/18,Facebook,personalization,True,English,English,24-30 years,1/12/18,1/28/18,Facebook,False,1
+a100000600,1/13/18,Facebook,personalization,True,English,English,0-18 years,1/13/18,3/28/18,Facebook,False,1
+a100000601,1/14/18,Facebook,personalization,True,English,English,19-24 years,1/14/18,3/25/18,Facebook,False,1
+a100000602,1/15/18,Facebook,personalization,True,English,English,24-30 years,1/15/18,2/13/18,Facebook,False,1
+a100000603,1/16/18,Facebook,personalization,True,English,English,24-30 years,1/16/18,4/16/18,Facebook,False,1
+a100000604,1/17/18,Facebook,control,True,English,English,0-18 years,1/17/18,2/18/18,Facebook,False,1
+a100000634,1/15/18,Email,personalization,True,English,English,19-24 years,1/15/18,2/9/18,Email,False,1
+a100000635,1/15/18,Email,personalization,False,English,English,24-30 years,1/15/18,3/15/18,Email,False,0
+a100000636,1/15/18,Email,personalization,True,English,English,24-30 years,1/15/18,4/8/18,Email,False,1
+a100000637,1/15/18,Email,personalization,True,English,English,0-18 years,1/15/18,4/17/18,Email,False,1
+a100000638,1/15/18,Email,personalization,False,English,English,19-24 years,1/15/18,1/30/18,Email,False,0
+a100000639,1/15/18,Email,personalization,True,English,English,24-30 years,1/15/18,3/19/18,Email,False,1
+a100000640,1/15/18,Email,personalization,True,English,English,24-30 years,1/15/18,2/28/18,Email,False,1
+a100000641,1/15/18,Email,personalization,True,English,English,0-18 years,1/15/18,2/7/18,Email,False,1
+a100000642,1/15/18,Email,personalization,False,English,English,19-24 years,1/15/18,4/5/18,Email,False,0
+a100000691,1/17/18,Email,control,True,English,English,36-45 years,1/17/18,2/25/18,Email,False,1
+a100000692,1/17/18,Email,control,True,English,English,45-55 years,1/17/18,4/5/18,Email,False,1
+a100000693,1/17/18,Email,control,True,English,English,55+ years,1/17/18,2/12/18,Email,False,1
+a100000694,1/17/18,Email,control,True,English,English,0-18 years,1/17/18,4/4/18,Email,False,1
+a100000695,1/17/18,Email,control,True,German,German,19-24 years,1/17/18,3/5/18,Email,False,1
+a100000696,1/17/18,Email,control,True,German,German,24-30 years,1/17/18,2/14/18,Email,False,1
+a100000697,1/17/18,Email,control,True,English,English,30-36 years,1/17/18,4/26/18,Email,False,1
+a100000698,1/17/18,Email,control,True,English,English,36-45 years,1/17/18,1/27/18,Email,False,1
+a100000718,1/17/18,Email,control,True,English,English,45-55 years,1/17/18,1/24/18,Email,False,1
+a100000734,1/16/18,Instagram,control,True,English,English,0-18 years,1/16/18,2/24/18,Instagram,False,1
+a100000734,1/8/18,House Ads,control,False,English,English,0-18 years,1/16/18,2/24/18,Instagram,False,0
+a100000735,1/16/18,Email,control,True,English,English,19-24 years,1/16/18,2/3/18,Email,False,1
+a100000735,1/5/18,House Ads,control,False,English,English,19-24 years,1/16/18,2/3/18,Email,False,0
+a100000736,1/16/18,Push,control,True,English,English,24-30 years,1/16/18,2/5/18,Push,False,1
+a100000736,1/6/18,House Ads,control,False,English,English,24-30 years,1/16/18,2/5/18,Push,False,0
+a100000737,1/17/18,Facebook,control,True,English,English,30-36 years,1/17/18,1/30/18,Facebook,False,1
+a100000737,1/7/18,Instagram,control,False,English,English,30-36 years,1/17/18,1/30/18,Facebook,False,0
+a100000738,1/17/18,Instagram,control,True,English,English,36-45 years,1/17/18,3/5/18,Instagram,False,1
+a100000738,1/8/18,Facebook,control,False,English,English,36-45 years,1/17/18,3/5/18,Instagram,False,0
+a100000739,1/16/18,Email,control,True,Arabic,Arabic,45-55 years,1/16/18,3/27/18,Email,False,1
+a100000739,1/5/18,House Ads,control,False,English,English,45-55 years,1/16/18,3/27/18,Email,False,0
+a100000753,1/16/18,Push,control,True,English,English,55+ years,1/16/18,2/22/18,Push,False,1
+a100000753,1/6/18,House Ads,control,False,English,English,55+ years,1/16/18,2/22/18,Push,False,0
+a100000754,1/16/18,Facebook,control,True,English,English,0-18 years,1/16/18,1/16/18,Facebook,False,1
+a100000754,1/7/18,House Ads,control,False,English,English,0-18 years,1/16/18,1/16/18,Facebook,False,0
+a100000755,1/16/18,Instagram,control,True,English,English,19-24 years,1/16/18,4/13/18,Instagram,False,1
+a100000755,1/8/18,House Ads,control,False,English,English,19-24 years,1/16/18,4/13/18,Instagram,False,0
+a100000763,1/16/18,Instagram,personalization,True,English,English,30-36 years,1/16/18,1/22/18,Instagram,False,1
+a100000764,1/16/18,Email,control,True,English,English,36-45 years,1/16/18,3/1/18,Email,False,1
+a100000765,1/16/18,Push,personalization,True,English,English,45-55 years,1/16/18,3/23/18,Push,False,1
+a100000766,1/16/18,Facebook,personalization,True,English,English,55+ years,1/16/18,3/7/18,Facebook,False,1
+a100000767,1/16/18,Instagram,personalization,True,English,English,0-18 years,1/16/18,4/8/18,Instagram,False,1
+a100000768,1/17/18,Email,personalization,True,English,English,19-24 years,1/17/18,1/23/18,Email,False,1
+a100000769,1/17/18,Push,personalization,True,English,English,24-30 years,1/17/18,1/21/18,Push,False,1
+a100000770,1/16/18,Facebook,personalization,True,English,English,0-18 years,1/16/18,3/4/18,Facebook,False,1
+a100000770,1/15/18,House Ads,personalization,False,English,English,0-18 years,1/16/18,3/4/18,Facebook,False,0
+a100000771,1/16/18,Instagram,personalization,True,English,English,19-24 years,1/16/18,3/13/18,Instagram,False,1
+a100000771,1/15/18,Instagram,personalization,False,English,English,19-24 years,1/16/18,3/13/18,Instagram,False,0
+a100000801,1/21/18,Facebook,personalization,True,English,English,24-30 years,1/21/18,2/13/18,Facebook,False,1
+a100000801,1/15/18,House Ads,personalization,False,English,English,24-30 years,1/21/18,2/13/18,Facebook,False,0
+a100000802,1/22/18,Instagram,personalization,True,English,English,0-18 years,1/22/18,3/13/18,Instagram,False,1
+a100000802,1/15/18,House Ads,personalization,False,English,English,0-18 years,1/22/18,3/13/18,Instagram,False,0
+a100000803,1/23/18,Instagram,personalization,True,English,English,19-24 years,1/23/18,2/13/18,Instagram,False,1
+a100000803,1/15/18,House Ads,personalization,False,English,English,19-24 years,1/23/18,2/13/18,Instagram,False,0
+a100000804,1/24/18,Instagram,personalization,True,English,English,24-30 years,1/24/18,4/1/18,Instagram,False,1
+a100000804,1/15/18,House Ads,personalization,False,English,English,24-30 years,1/24/18,4/1/18,Instagram,False,0
+a100000805,1/25/18,Instagram,personalization,True,English,English,0-18 years,1/25/18,2/17/18,Instagram,False,1
+a100000805,1/15/18,House Ads,personalization,False,English,English,0-18 years,1/25/18,2/17/18,Instagram,False,0
+a100000806,1/26/18,Instagram,personalization,True,English,English,19-24 years,1/26/18,4/27/18,Instagram,False,1
+a100000806,1/15/18,House Ads,personalization,False,English,English,19-24 years,1/26/18,4/27/18,Instagram,False,0
+a100000807,1/27/18,Instagram,personalization,True,English,English,24-30 years,1/27/18,3/3/18,Instagram,False,1
+a100000807,1/15/18,House Ads,personalization,False,English,English,24-30 years,1/27/18,3/3/18,Instagram,False,0
+a100000808,1/28/18,Email,personalization,False,English,English,55+ years,1/28/18,5/4/18,Email,False,0
+a100000808,1/15/18,House Ads,personalization,False,English,English,55+ years,1/28/18,5/4/18,Email,False,0
+a100000809,1/29/18,Push,personalization,True,English,English,19-24 years,1/29/18,4/14/18,Push,False,1
+a100000809,1/16/18,House Ads,personalization,False,English,English,19-24 years,1/29/18,4/14/18,Push,False,0
+a100000826,1/18/18,Facebook,personalization,True,English,English,24-30 years,1/18/18,4/14/18,Facebook,False,1
+a100000826,1/15/18,House Ads,personalization,False,English,English,24-30 years,1/18/18,4/14/18,Facebook,False,0
+a100000827,1/19/18,Instagram,personalization,True,English,English,30-36 years,1/19/18,1/25/18,Instagram,False,1
+a100000827,1/15/18,House Ads,personalization,False,English,English,30-36 years,1/19/18,1/25/18,Instagram,False,0
+a100000828,1/20/18,Instagram,personalization,True,English,English,36-45 years,1/20/18,4/1/18,Instagram,False,1
+a100000828,1/15/18,House Ads,personalization,False,English,English,36-45 years,1/20/18,4/1/18,Instagram,False,0
+a100000829,1/21/18,Instagram,personalization,True,English,English,45-55 years,1/21/18,2/11/18,Instagram,False,1
+a100000829,1/16/18,House Ads,personalization,False,English,English,45-55 years,1/21/18,2/11/18,Instagram,False,0
+a100000830,1/22/18,Instagram,personalization,True,English,English,55+ years,1/22/18,3/17/18,Instagram,False,1
+a100000830,1/15/18,House Ads,personalization,False,English,English,55+ years,1/22/18,3/17/18,Instagram,False,0
+a100000831,1/23/18,Instagram,personalization,True,English,English,0-18 years,1/23/18,4/17/18,Instagram,False,1
+a100000831,1/15/18,House Ads,personalization,False,English,English,0-18 years,1/23/18,4/17/18,Instagram,False,0
+a100000832,1/24/18,Email,personalization,False,English,English,19-24 years,1/24/18,4/16/18,Email,False,0
+a100000832,1/15/18,House Ads,personalization,False,English,English,19-24 years,1/24/18,4/16/18,Email,False,0
+a100000833,1/25/18,Push,personalization,True,English,English,24-30 years,1/25/18,3/12/18,Push,False,1
+a100000833,1/15/18,House Ads,personalization,False,English,English,24-30 years,1/25/18,3/12/18,Push,False,0
+a100000855,1/26/18,Facebook,personalization,True,English,English,0-18 years,1/26/18,1/29/18,Facebook,False,1
+a100000855,1/15/18,House Ads,personalization,False,English,English,0-18 years,1/26/18,1/29/18,Facebook,False,0
+a100000867,1/30/18,Email,control,True,English,English,55+ years,1/30/18,4/28/18,Email,False,1
+a100000867,1/30/18,House Ads,control,False,English,English,30-36 years,1/30/18,4/28/18,Email,False,0
+a100000867,1/15/18,House Ads,personalization,False,English,English,55+ years,1/30/18,4/28/18,Email,False,0
+a100000868,1/31/18,Push,personalization,True,English,English,0-18 years,1/31/18,2/20/18,Push,False,1
+a100000868,1/30/18,House Ads,control,False,English,English,36-45 years,1/31/18,2/20/18,Push,False,0
+a100000868,1/15/18,House Ads,personalization,False,English,English,0-18 years,1/31/18,2/20/18,Push,False,0
+a100000869,1/1/18,Facebook,personalization,True,English,English,19-24 years,1/1/18,3/6/18,Facebook,False,1
+a100000869,1/30/18,House Ads,control,False,English,Spanish,45-55 years,1/1/18,3/6/18,Facebook,False,0
+a100000870,1/2/18,Instagram,personalization,True,English,English,24-30 years,1/2/18,1/9/18,Instagram,False,1
+a100000870,1/31/18,Push,control,False,English,English,0-18 years,1/2/18,1/9/18,Instagram,False,0
+a100000870,1/2/18,House Ads,personalization,False,English,English,24-30 years,1/2/18,1/9/18,Instagram,False,0
+a100000871,1/3/18,Instagram,personalization,True,English,English,0-18 years,1/3/18,1/6/18,Instagram,False,1
+a100000871,1/31/18,Facebook,control,False,English,English,19-24 years,1/3/18,1/6/18,Instagram,False,0
+a100000871,1/2/18,House Ads,personalization,False,English,English,0-18 years,1/3/18,1/6/18,Instagram,False,0
+a100000872,1/4/18,Instagram,personalization,True,English,English,19-24 years,1/4/18,3/4/18,Instagram,False,1
+a100000872,1/31/18,Instagram,control,False,English,English,24-30 years,1/4/18,3/4/18,Instagram,False,0
+a100000872,1/2/18,House Ads,personalization,False,English,English,19-24 years,1/4/18,3/4/18,Instagram,False,0
+a100000873,1/5/18,Facebook,personalization,True,English,English,24-30 years,1/5/18,4/4/18,Facebook,False,1
+a100000873,1/31/18,Instagram,control,False,English,English,30-36 years,1/5/18,4/4/18,Facebook,False,0
+a100000873,1/2/18,House Ads,personalization,False,English,English,24-30 years,1/5/18,4/4/18,Facebook,False,0
+a100000874,1/6/18,Instagram,personalization,True,English,English,0-18 years,1/6/18,2/13/18,Instagram,False,1
+a100000874,1/31/18,Facebook,control,False,English,English,36-45 years,1/6/18,2/13/18,Instagram,False,0
+a100000874,1/2/18,House Ads,personalization,False,English,English,0-18 years,1/6/18,2/13/18,Instagram,False,0
+a100000875,1/7/18,Instagram,personalization,True,English,English,19-24 years,1/7/18,3/28/18,Instagram,False,1
+a100000875,1/11/18,Instagram,control,True,English,English,45-55 years,1/7/18,3/28/18,Instagram,False,1
+a100000875,1/2/18,House Ads,personalization,False,English,English,19-24 years,1/7/18,3/28/18,Instagram,False,0
+a100000875,1/3/18,House Ads,control,False,English,English,45-55 years,1/7/18,3/28/18,Instagram,False,0
+a100000888,1/2/18,Instagram,personalization,True,English,English,19-24 years,1/2/18,4/2/18,Instagram,False,1
+a100000888,1/6/18,Instagram,control,True,English,English,36-45 years,1/2/18,4/2/18,Instagram,False,1
+a100000888,1/2/18,Facebook,control,False,English,English,36-45 years,1/2/18,4/2/18,Instagram,False,0
+a100000888,1/2/18,House Ads,personalization,False,English,English,19-24 years,1/2/18,4/2/18,Instagram,False,0
+a100000888,1/3/18,House Ads,control,False,English,English,36-45 years,1/2/18,4/2/18,Instagram,False,0
+a100000889,1/3/18,Email,personalization,False,English,English,24-30 years,1/3/18,3/24/18,Email,False,0
+a100000889,1/7/18,Email,control,True,English,English,45-55 years,1/3/18,3/24/18,Email,False,1
+a100000889,1/3/18,House Ads,control,False,English,English,45-55 years,1/3/18,3/24/18,Email,False,0
+a100000889,1/2/18,House Ads,personalization,False,English,English,24-30 years,1/3/18,3/24/18,Email,False,0
+a100000889,1/3/18,House Ads,control,False,English,English,45-55 years,1/3/18,3/24/18,Email,False,0
+a100000890,1/4/18,Push,personalization,True,English,English,0-18 years,1/4/18,1/11/18,Push,False,1
+a100000890,1/8/18,Push,control,True,English,English,55+ years,1/4/18,1/11/18,Push,False,1
+a100000890,1/4/18,House Ads,control,False,English,English,55+ years,1/4/18,1/11/18,Push,False,0
+a100000890,1/2/18,House Ads,personalization,False,English,English,0-18 years,1/4/18,1/11/18,Push,False,0
+a100000890,1/3/18,House Ads,control,False,English,English,55+ years,1/4/18,1/11/18,Push,False,0
+a100000891,1/5/18,Facebook,personalization,True,English,English,19-24 years,1/5/18,3/17/18,Facebook,False,1
+a100000891,1/9/18,Facebook,control,True,English,English,0-18 years,1/5/18,3/17/18,Facebook,False,1
+a100000891,1/5/18,House Ads,control,False,English,English,0-18 years,1/5/18,3/17/18,Facebook,False,0
+a100000891,1/2/18,House Ads,personalization,False,English,English,19-24 years,1/5/18,3/17/18,Facebook,False,0
+a100000891,1/3/18,House Ads,control,False,English,English,0-18 years,1/5/18,3/17/18,Facebook,False,0
+a100000892,1/6/18,Instagram,personalization,True,English,English,24-30 years,1/6/18,4/1/18,Instagram,False,1
+a100000892,1/10/18,Instagram,control,True,English,English,19-24 years,1/6/18,4/1/18,Instagram,False,1
+a100000892,1/1/18,Instagram,control,False,English,English,19-24 years,1/6/18,4/1/18,Instagram,False,0
+a100000892,1/2/18,House Ads,personalization,False,English,English,24-30 years,1/6/18,4/1/18,Instagram,False,0
+a100000892,1/3/18,House Ads,control,False,English,English,19-24 years,1/6/18,4/1/18,Instagram,False,0
+a100000893,1/7/18,Instagram,control,True,English,English,19-24 years,1/7/18,4/1/18,Instagram,False,1
+a100000893,1/11/18,Instagram,control,True,English,English,24-30 years,1/7/18,4/1/18,Instagram,False,1
+a100000893,1/2/18,Facebook,control,False,English,English,24-30 years,1/7/18,4/1/18,Instagram,False,0
+a100000893,1/2/18,House Ads,control,False,English,English,19-24 years,1/7/18,4/1/18,Instagram,False,0
+a100000893,1/3/18,House Ads,control,False,English,English,24-30 years,1/7/18,4/1/18,Instagram,False,0
+a100000894,1/8/18,Instagram,control,True,English,English,24-30 years,1/8/18,4/2/18,Instagram,False,1
+a100000894,1/12/18,Instagram,control,True,English,English,30-36 years,1/8/18,4/2/18,Instagram,False,1
+a100000894,1/3/18,House Ads,control,False,English,English,30-36 years,1/8/18,4/2/18,Instagram,False,0
+a100000894,1/3/18,House Ads,control,False,English,English,24-30 years,1/8/18,4/2/18,Instagram,False,0
+a100000894,1/3/18,House Ads,control,False,English,English,30-36 years,1/8/18,4/2/18,Instagram,False,0
+a100000895,1/9/18,Facebook,control,True,English,English,30-36 years,1/9/18,4/4/18,Facebook,False,1
+a100000895,1/31/18,House Ads,control,False,English,English,45-55 years,1/9/18,4/4/18,Facebook,False,0
+a100000895,1/3/18,House Ads,control,False,English,English,30-36 years,1/9/18,4/4/18,Facebook,False,0
+a100000896,1/10/18,Instagram,control,True,English,English,36-45 years,1/10/18,3/25/18,Instagram,False,1
+a100000896,1/31/18,House Ads,control,False,English,English,0-18 years,1/10/18,3/25/18,Instagram,False,0
+a100000896,1/3/18,House Ads,control,False,English,English,36-45 years,1/10/18,3/25/18,Instagram,False,0
+a100000992,1/18/18,Facebook,personalization,True,English,English,19-24 years,1/18/18,4/6/18,Facebook,False,1
+a100000992,1/12/18,House Ads,control,False,English,English,19-24 years,1/18/18,4/6/18,Facebook,False,0
+a100000992,1/3/18,House Ads,personalization,False,English,English,19-24 years,1/18/18,4/6/18,Facebook,False,0
+a100000993,1/1/18,Instagram,personalization,True,English,English,0-18 years,1/1/18,1/7/18,Instagram,False,1
+a100000993,1/12/18,House Ads,control,False,English,English,24-30 years,1/1/18,1/7/18,Instagram,False,0
+a100000993,1/3/18,House Ads,personalization,False,English,English,0-18 years,1/1/18,1/7/18,Instagram,False,0
+a100000994,1/2/18,Instagram,personalization,True,English,English,19-24 years,1/2/18,1/28/18,Instagram,False,1
+a100000994,1/12/18,House Ads,control,False,English,English,30-36 years,1/2/18,1/28/18,Instagram,False,0
+a100000994,1/3/18,House Ads,personalization,False,English,English,19-24 years,1/2/18,1/28/18,Instagram,False,0
+a100000995,1/3/18,Facebook,personalization,True,English,English,24-30 years,1/3/18,2/11/18,Facebook,False,1
+a100000995,1/12/18,Push,control,False,English,English,36-45 years,1/3/18,2/11/18,Facebook,False,0
+a100000995,1/3/18,House Ads,personalization,False,English,English,24-30 years,1/3/18,2/11/18,Facebook,False,0
+a100000996,1/4/18,Instagram,personalization,True,English,English,19-24 years,1/4/18,1/16/18,Instagram,False,1
+a100000996,1/12/18,Facebook,control,False,English,English,45-55 years,1/4/18,1/16/18,Instagram,False,0
+a100000996,1/3/18,House Ads,personalization,False,English,English,19-24 years,1/4/18,1/16/18,Instagram,False,0
+a100000997,1/5/18,Instagram,personalization,True,English,English,19-24 years,1/5/18,1/12/18,Instagram,False,1
+a100000997,1/13/18,Instagram,control,False,English,English,0-18 years,1/5/18,1/12/18,Instagram,False,0
+a100000997,1/3/18,House Ads,personalization,False,English,English,19-24 years,1/5/18,1/12/18,Instagram,False,0
+a100000998,1/6/18,Facebook,personalization,True,English,English,19-24 years,1/6/18,3/22/18,Facebook,False,1
+a100000998,1/13/18,Instagram,control,False,English,English,19-24 years,1/6/18,3/22/18,Facebook,False,0
+a100000998,1/3/18,House Ads,personalization,False,English,English,19-24 years,1/6/18,3/22/18,Facebook,False,0
+a100000999,1/7/18,Instagram,personalization,True,English,English,0-18 years,1/7/18,3/7/18,Instagram,False,1
+a100000999,1/13/18,Facebook,control,False,English,English,24-30 years,1/7/18,3/7/18,Instagram,False,0
+a100000999,1/2/18,House Ads,personalization,False,English,English,0-18 years,1/7/18,3/7/18,Instagram,False,0
+a100001044,1/8/18,Email,personalization,True,English,English,19-24 years,1/8/18,3/30/18,Email,False,1
+a100001044,1/19/18,Facebook,control,False,English,English,45-55 years,1/8/18,3/30/18,Email,False,0
+a100001044,1/2/18,House Ads,personalization,False,English,English,19-24 years,1/8/18,3/30/18,Email,False,0
+a100001090,1/12/18,Email,personalization,True,English,English,19-24 years,1/12/18,3/18/18,Email,False,1
+a100001090,1/26/18,House Ads,control,False,English,English,30-36 years,1/12/18,3/18/18,Email,False,0
+a100001091,1/13/18,Push,personalization,True,English,English,19-24 years,1/13/18,1/13/18,Push,False,1
+a100001091,1/26/18,Push,control,False,English,English,36-45 years,1/13/18,1/13/18,Push,False,0
+a100001092,1/14/18,Facebook,personalization,True,English,English,0-18 years,1/14/18,2/22/18,Facebook,False,1
+a100001092,1/26/18,Facebook,control,False,English,English,45-55 years,1/14/18,2/22/18,Facebook,False,0
+a100001093,1/15/18,Instagram,personalization,True,English,English,19-24 years,1/15/18,1/20/18,Instagram,False,1
+a100001093,1/26/18,Instagram,control,False,English,English,0-18 years,1/15/18,1/20/18,Instagram,False,0
+a100001094,1/16/18,Instagram,personalization,True,English,English,24-30 years,1/16/18,3/23/18,Instagram,False,1
+a100001094,1/26/18,Instagram,control,False,English,English,19-24 years,1/16/18,3/23/18,Instagram,False,0
+a100001095,1/17/18,Facebook,personalization,True,English,English,30-36 years,1/17/18,3/16/18,Facebook,False,1
+a100001095,1/26/18,Facebook,control,False,English,English,24-30 years,1/17/18,3/16/18,Facebook,False,0
+a100001096,1/18/18,Instagram,personalization,True,English,English,36-45 years,1/18/18,3/26/18,Instagram,False,1
+a100001096,1/27/18,House Ads,control,False,English,English,30-36 years,1/18/18,3/26/18,Instagram,False,0
+a100001097,1/19/18,Instagram,personalization,True,English,English,45-55 years,1/19/18,1/19/18,Instagram,False,1
+a100001097,1/27/18,House Ads,control,False,English,English,36-45 years,1/19/18,1/19/18,Instagram,False,0
+a100001098,1/20/18,Facebook,personalization,True,English,English,55+ years,1/20/18,4/2/18,Facebook,False,1
+a100001098,1/27/18,House Ads,control,False,English,English,45-55 years,1/20/18,4/2/18,Facebook,False,0
+a100001154,1/4/18,Facebook,personalization,True,English,English,0-18 years,1/4/18,4/11/18,Facebook,False,1
+a100001154,1/4/18,House Ads,control,False,English,English,19-24 years,1/4/18,4/11/18,Facebook,False,0
+a100001155,1/4/18,Instagram,personalization,True,English,English,19-24 years,1/4/18,1/29/18,Instagram,False,1
+a100001155,1/4/18,Push,control,False,English,English,24-30 years,1/4/18,1/29/18,Instagram,False,0
+a100001156,1/4/18,Email,personalization,True,English,English,24-30 years,1/4/18,1/10/18,Email,False,1
+a100001156,1/4/18,Facebook,control,False,English,English,30-36 years,1/4/18,1/10/18,Email,False,0
+a100001157,1/4/18,Push,personalization,True,English,English,19-24 years,1/4/18,4/8/18,Push,False,1
+a100001157,1/4/18,Instagram,control,False,English,English,36-45 years,1/4/18,4/8/18,Push,False,0
+a100001158,1/4/18,Facebook,personalization,True,English,English,19-24 years,1/4/18,2/18/18,Facebook,False,1
+a100001158,1/4/18,Instagram,control,False,English,English,45-55 years,1/4/18,2/18/18,Facebook,False,0
+a100001159,1/4/18,Instagram,personalization,True,English,English,19-24 years,1/4/18,2/6/18,Instagram,False,1
+a100001159,1/5/18,Facebook,control,False,English,English,0-18 years,1/4/18,2/6/18,Instagram,False,0
+a100001160,1/5/18,Facebook,personalization,True,English,English,0-18 years,1/5/18,1/13/18,Facebook,False,1
+a100001160,1/5/18,House Ads,control,False,Spanish,Spanish,19-24 years,1/5/18,1/13/18,Facebook,False,0
+a100001161,1/5/18,Instagram,personalization,True,English,English,19-24 years,1/5/18,2/10/18,Instagram,False,1
+a100001161,1/5/18,House Ads,control,False,English,English,24-30 years,1/5/18,2/10/18,Instagram,False,0
+a100001162,1/5/18,Instagram,personalization,True,English,English,24-30 years,1/5/18,2/4/18,Instagram,False,1
+a100001162,1/5/18,House Ads,control,False,English,English,30-36 years,1/5/18,2/4/18,Instagram,False,0
+a100001166,1/6/18,Push,personalization,True,English,English,0-18 years,1/6/18,4/3/18,Push,False,1
+a100001166,1/6/18,Instagram,control,False,English,English,19-24 years,1/6/18,4/3/18,Push,False,0
+a100001167,1/6/18,Facebook,personalization,True,English,English,19-24 years,1/6/18,2/4/18,Facebook,False,1
+a100001167,1/6/18,Facebook,control,False,English,English,24-30 years,1/6/18,2/4/18,Facebook,False,0
+a100001168,1/6/18,Instagram,personalization,True,English,English,24-30 years,1/6/18,2/11/18,Instagram,False,1
+a100001168,1/6/18,House Ads,control,False,English,English,30-36 years,1/6/18,2/11/18,Instagram,False,0
+a100001169,1/6/18,Facebook,personalization,True,English,English,30-36 years,1/6/18,2/19/18,Facebook,False,1
+a100001169,1/6/18,House Ads,control,False,English,English,36-45 years,1/6/18,2/19/18,Facebook,False,0
+a100001170,1/7/18,Instagram,personalization,True,English,English,36-45 years,1/7/18,4/5/18,Instagram,False,1
+a100001170,1/6/18,House Ads,control,False,English,English,45-55 years,1/7/18,4/5/18,Instagram,False,0
+a100001171,1/7/18,Instagram,personalization,True,English,English,45-55 years,1/7/18,4/16/18,Instagram,False,1
+a100001171,1/6/18,Push,control,False,English,English,0-18 years,1/7/18,4/16/18,Instagram,False,0
+a100001172,1/7/18,Facebook,personalization,True,English,English,55+ years,1/7/18,3/17/18,Facebook,False,1
+a100001172,1/6/18,Facebook,control,False,English,English,19-24 years,1/7/18,3/17/18,Facebook,False,0
+a100001173,1/7/18,Instagram,personalization,True,English,English,0-18 years,1/7/18,3/6/18,Instagram,False,1
+a100001173,1/7/18,Instagram,control,False,English,English,24-30 years,1/7/18,3/6/18,Instagram,False,0
+a100001174,1/7/18,Email,personalization,True,English,English,19-24 years,1/7/18,3/4/18,Email,False,1
+a100001174,1/7/18,Instagram,control,False,English,English,30-36 years,1/7/18,3/4/18,Email,False,0
+a100001180,1/8/18,Instagram,personalization,True,English,English,19-24 years,1/8/18,4/17/18,Instagram,False,1
+a100001180,1/8/18,Facebook,control,False,English,English,30-36 years,1/8/18,4/17/18,Instagram,False,0
+a100001181,1/9/18,Facebook,personalization,True,English,English,24-30 years,1/9/18,3/6/18,Facebook,False,1
+a100001181,1/8/18,Instagram,control,False,English,English,36-45 years,1/9/18,3/6/18,Facebook,False,0
+a100001182,1/9/18,Instagram,personalization,True,English,English,19-24 years,1/9/18,2/6/18,Instagram,False,1
+a100001182,1/8/18,Instagram,control,False,English,English,45-55 years,1/9/18,2/6/18,Instagram,False,0
+a100001183,1/9/18,Email,personalization,True,English,English,19-24 years,1/9/18,1/11/18,Email,False,1
+a100001183,1/8/18,Facebook,control,False,English,English,0-18 years,1/9/18,1/11/18,Email,False,0
+a100001184,1/9/18,Push,personalization,True,English,English,19-24 years,1/9/18,3/3/18,Push,False,1
+a100001184,1/8/18,House Ads,control,False,English,English,19-24 years,1/9/18,3/3/18,Push,False,0
+a100001185,1/9/18,Facebook,personalization,True,English,English,0-18 years,1/9/18,3/26/18,Facebook,False,1
+a100001185,1/8/18,House Ads,control,False,Spanish,Spanish,24-30 years,1/9/18,3/26/18,Facebook,False,0
+a100001186,1/9/18,Instagram,personalization,True,English,English,19-24 years,1/9/18,4/5/18,Instagram,False,1
+a100001186,1/9/18,House Ads,control,False,English,English,30-36 years,1/9/18,4/5/18,Instagram,False,0
+a100001187,1/10/18,Facebook,personalization,True,English,English,24-30 years,1/10/18,3/23/18,Facebook,False,1
+a100001187,1/9/18,Push,control,False,English,English,36-45 years,1/10/18,3/23/18,Facebook,False,0
+a100001188,1/10/18,Instagram,personalization,True,English,English,19-24 years,1/10/18,1/25/18,Instagram,False,1
+a100001188,1/9/18,Facebook,control,False,English,English,45-55 years,1/10/18,1/25/18,Instagram,False,0
+a100001198,1/11/18,Email,personalization,False,English,English,19-24 years,1/11/18,2/24/18,Email,False,0
+a100001198,1/10/18,Instagram,control,False,English,English,30-36 years,1/11/18,2/24/18,Email,False,0
+a100001199,1/12/18,Push,personalization,True,English,English,24-30 years,1/12/18,3/24/18,Push,False,1
+a100001199,1/10/18,Facebook,control,False,English,English,36-45 years,1/12/18,3/24/18,Push,False,0
+a100001200,1/12/18,Facebook,personalization,True,English,English,19-24 years,1/12/18,1/17/18,Facebook,False,1
+a100001200,1/11/18,House Ads,control,False,English,English,45-55 years,1/12/18,1/17/18,Facebook,False,0
+a100001201,1/12/18,Instagram,personalization,True,English,English,19-24 years,1/12/18,1/30/18,Instagram,False,1
+a100001201,1/11/18,House Ads,control,False,English,English,0-18 years,1/12/18,1/30/18,Instagram,False,0
+a100001202,1/12/18,Facebook,personalization,True,English,English,19-24 years,1/12/18,4/20/18,Facebook,False,1
+a100001202,1/11/18,House Ads,control,False,English,English,19-24 years,1/12/18,4/20/18,Facebook,False,0
+a100001203,1/12/18,Instagram,personalization,True,English,English,0-18 years,1/12/18,2/7/18,Instagram,False,1
+a100001203,1/11/18,Push,control,False,English,English,24-30 years,1/12/18,2/7/18,Instagram,False,0
+a100001204,1/13/18,Instagram,personalization,True,English,English,19-24 years,1/13/18,4/22/18,Instagram,False,1
+a100001204,1/11/18,Facebook,control,False,English,English,30-36 years,1/13/18,4/22/18,Instagram,False,0
+a100001205,1/13/18,Facebook,personalization,True,English,English,24-30 years,1/13/18,3/10/18,Facebook,False,1
+a100001205,1/11/18,Instagram,control,False,English,English,36-45 years,1/13/18,3/10/18,Facebook,False,0
+a100001206,1/13/18,Instagram,personalization,True,English,English,30-36 years,1/13/18,4/14/18,Instagram,False,1
+a100001206,1/11/18,Instagram,control,False,English,English,45-55 years,1/13/18,4/14/18,Instagram,False,0
+a100001223,1/16/18,Push,personalization,True,English,English,19-24 years,1/16/18,2/17/18,Push,False,1
+a100001223,1/14/18,Facebook,control,False,English,English,36-45 years,1/16/18,2/17/18,Push,False,0
+a100001224,1/16/18,Facebook,personalization,True,English,English,24-30 years,1/16/18,3/23/18,Facebook,False,1
+a100001224,1/14/18,House Ads,control,False,English,English,45-55 years,1/16/18,3/23/18,Facebook,False,0
+a100001225,1/16/18,Instagram,personalization,True,English,English,19-24 years,1/16/18,4/21/18,Instagram,False,1
+a100001225,1/14/18,House Ads,control,False,English,English,0-18 years,1/16/18,4/21/18,Instagram,False,0
+a100001226,1/16/18,Facebook,personalization,True,English,English,19-24 years,1/16/18,4/16/18,Facebook,False,1
+a100001226,1/14/18,House Ads,control,False,English,Spanish,19-24 years,1/16/18,4/16/18,Facebook,False,0
+a100001227,1/16/18,Instagram,personalization,True,English,English,19-24 years,1/16/18,2/10/18,Instagram,False,1
+a100001227,1/14/18,Push,control,False,English,English,24-30 years,1/16/18,2/10/18,Instagram,False,0
+a100001228,1/16/18,Instagram,personalization,True,English,English,0-18 years,1/16/18,3/27/18,Instagram,False,1
+a100001228,1/15/18,Facebook,control,False,English,English,30-36 years,1/16/18,3/27/18,Instagram,False,0
+a100001229,1/17/18,Facebook,personalization,True,English,English,19-24 years,1/17/18,2/17/18,Facebook,False,1
+a100001229,1/15/18,Instagram,control,False,English,English,36-45 years,1/17/18,2/17/18,Facebook,False,0
+a100001230,1/17/18,Instagram,personalization,True,English,English,24-30 years,1/17/18,2/9/18,Instagram,False,1
+a100001230,1/15/18,Instagram,control,False,English,English,45-55 years,1/17/18,2/9/18,Instagram,False,0
+a100001231,1/17/18,Email,personalization,False,English,English,19-24 years,1/17/18,2/25/18,Email,False,0
+a100001231,1/15/18,Facebook,control,False,English,English,0-18 years,1/17/18,2/25/18,Email,False,0
+a100001290,1/24/18,Facebook,personalization,True,English,English,0-18 years,1/24/18,2/10/18,Facebook,False,1
+a100001290,1/23/18,House Ads,control,False,English,English,45-55 years,1/24/18,2/10/18,Facebook,False,0
+a100001291,1/24/18,Instagram,personalization,True,English,English,19-24 years,1/24/18,5/1/18,Instagram,False,1
+a100001291,1/24/18,Push,control,False,English,English,0-18 years,1/24/18,5/1/18,Instagram,False,0
+a100001292,1/24/18,Facebook,personalization,True,English,English,24-30 years,1/24/18,3/3/18,Facebook,False,1
+a100001292,1/24/18,Facebook,control,False,English,English,19-24 years,1/24/18,3/3/18,Facebook,False,0
+a100001293,1/25/18,Instagram,personalization,True,English,English,19-24 years,1/25/18,2/7/18,Instagram,False,1
+a100001293,1/24/18,Instagram,control,False,English,English,24-30 years,1/25/18,2/7/18,Instagram,False,0
+a100001294,1/25/18,Instagram,personalization,True,English,English,24-30 years,1/25/18,3/18/18,Instagram,False,1
+a100001294,1/24/18,Instagram,control,False,English,English,30-36 years,1/25/18,3/18/18,Instagram,False,0
+a100001295,1/25/18,Facebook,personalization,True,English,English,19-24 years,1/25/18,3/11/18,Facebook,False,1
+a100001295,1/24/18,Facebook,control,False,English,English,36-45 years,1/25/18,3/11/18,Facebook,False,0
+a100001296,1/25/18,Instagram,personalization,True,English,English,24-30 years,1/25/18,5/2/18,Instagram,False,1
+a100001296,1/24/18,House Ads,control,False,English,English,45-55 years,1/25/18,5/2/18,Instagram,False,0
+a100001297,1/25/18,Email,personalization,True,English,English,19-24 years,1/25/18,2/8/18,Email,False,1
+a100001297,1/24/18,House Ads,control,False,English,English,0-18 years,1/25/18,2/8/18,Email,False,0
+a100001298,1/25/18,Push,personalization,True,English,English,24-30 years,1/25/18,3/22/18,Push,False,1
+a100001298,1/24/18,House Ads,control,False,English,Spanish,19-24 years,1/25/18,3/22/18,Push,False,0
+a100001304,1/27/18,Facebook,personalization,True,English,English,30-36 years,1/27/18,4/23/18,Facebook,False,1
+a100001304,1/25/18,House Ads,control,False,English,English,19-24 years,1/27/18,4/23/18,Facebook,False,0
+a100001305,1/27/18,Instagram,personalization,True,English,English,36-45 years,1/27/18,2/19/18,Instagram,False,1
+a100001305,1/25/18,House Ads,control,False,English,Spanish,24-30 years,1/27/18,2/19/18,Instagram,False,0
+a100001306,1/27/18,Email,personalization,True,English,English,45-55 years,1/27/18,2/17/18,Email,False,1
+a100001306,1/26/18,House Ads,control,False,English,English,30-36 years,1/27/18,2/17/18,Email,False,0
+a100001307,1/27/18,Push,personalization,True,English,English,55+ years,1/27/18,4/22/18,Push,False,1
+a100001307,1/26/18,Push,control,False,English,English,36-45 years,1/27/18,4/22/18,Push,False,0
+a100001308,1/27/18,Facebook,personalization,True,English,English,0-18 years,1/27/18,2/23/18,Facebook,False,1
+a100001308,1/26/18,Facebook,control,False,English,English,45-55 years,1/27/18,2/23/18,Facebook,False,0
+a100001309,1/27/18,Instagram,personalization,True,English,English,19-24 years,1/27/18,2/7/18,Instagram,False,1
+a100001309,1/26/18,Instagram,control,False,English,English,0-18 years,1/27/18,2/7/18,Instagram,False,0
+a100001310,1/28/18,Facebook,personalization,True,English,English,24-30 years,1/28/18,2/14/18,Facebook,False,1
+a100001310,1/26/18,Instagram,control,False,English,English,19-24 years,1/28/18,2/14/18,Facebook,False,0
+a100001311,1/28/18,Instagram,personalization,True,English,English,0-18 years,1/28/18,3/23/18,Instagram,False,1
+a100001311,1/26/18,Facebook,control,False,English,English,24-30 years,1/28/18,3/23/18,Instagram,False,0
+a100001312,1/28/18,Email,personalization,True,English,English,19-24 years,1/28/18,3/6/18,Email,False,1
+a100001312,1/26/18,House Ads,control,False,English,English,30-36 years,1/28/18,3/6/18,Email,False,0
+a100001342,1/8/18,Instagram,personalization,True,English,English,24-30 years,1/8/18,1/16/18,Instagram,False,1
+a100001342,1/31/18,Instagram,control,False,English,English,30-36 years,1/8/18,1/16/18,Instagram,False,0
+a100001343,1/9/18,Facebook,personalization,True,English,English,0-18 years,1/9/18,3/31/18,Facebook,False,1
+a100001343,1/31/18,Facebook,control,False,English,English,36-45 years,1/9/18,3/31/18,Facebook,False,0
+a100001344,1/10/18,Instagram,personalization,True,English,English,19-24 years,1/10/18,2/11/18,Instagram,False,1
+a100001344,1/31/18,House Ads,control,False,English,English,45-55 years,1/10/18,2/11/18,Instagram,False,0
+a100001345,1/11/18,Email,personalization,True,English,English,24-30 years,1/11/18,2/25/18,Email,False,1
+a100001345,1/31/18,House Ads,control,False,English,English,0-18 years,1/11/18,2/25/18,Email,False,0
+a100001346,1/12/18,Push,personalization,True,English,English,30-36 years,1/12/18,3/25/18,Push,False,1
+a100001346,1/31/18,House Ads,control,False,Spanish,Spanish,19-24 years,1/12/18,3/25/18,Push,False,0
+a100001347,1/13/18,Facebook,personalization,True,English,English,36-45 years,1/13/18,2/2/18,Facebook,False,1
+a100001347,1/31/18,Push,control,False,English,English,24-30 years,1/13/18,2/2/18,Facebook,False,0
+a100001348,1/14/18,Instagram,personalization,True,English,English,45-55 years,1/14/18,3/5/18,Instagram,False,1
+a100001348,1/1/18,Facebook,control,False,English,English,30-36 years,1/14/18,3/5/18,Instagram,False,0
+a100001349,1/15/18,Facebook,personalization,True,English,English,55+ years,1/15/18,4/11/18,Facebook,False,1
+a100001349,1/1/18,Instagram,control,False,English,English,36-45 years,1/15/18,4/11/18,Facebook,False,0
+a100001350,1/16/18,Instagram,personalization,True,English,English,0-18 years,1/16/18,4/25/18,Instagram,False,1
+a100001350,1/1/18,Instagram,control,False,English,English,45-55 years,1/16/18,4/25/18,Instagram,False,0
+a100001357,1/23/18,Instagram,personalization,True,English,English,24-30 years,1/23/18,1/25/18,Instagram,False,1
+a100001357,1/2/18,Instagram,control,False,English,English,0-18 years,1/23/18,1/25/18,Instagram,False,0
+a100001358,1/24/18,Facebook,personalization,True,English,English,19-24 years,1/24/18,3/3/18,Facebook,False,1
+a100001358,1/2/18,Instagram,control,False,English,English,19-24 years,1/24/18,3/3/18,Facebook,False,0
+a100001359,1/25/18,Instagram,personalization,True,English,English,24-30 years,1/25/18,4/30/18,Instagram,False,1
+a100001359,1/2/18,Facebook,control,False,English,English,24-30 years,1/25/18,4/30/18,Instagram,False,0
+a100001360,1/26/18,Email,personalization,True,English,English,19-24 years,1/26/18,3/3/18,Email,False,1
+a100001360,1/2/18,House Ads,control,False,English,English,30-36 years,1/26/18,3/3/18,Email,False,0
+a100001361,1/27/18,Push,personalization,True,English,English,24-30 years,1/27/18,2/24/18,Push,False,1
+a100001361,1/2/18,House Ads,control,False,English,English,36-45 years,1/27/18,2/24/18,Push,False,0
+a100001362,1/28/18,Facebook,personalization,True,English,English,19-24 years,1/28/18,2/13/18,Facebook,False,1
+a100001362,1/3/18,House Ads,control,False,Spanish,Spanish,45-55 years,1/28/18,2/13/18,Facebook,False,0
+a100001363,1/29/18,Instagram,personalization,True,English,English,24-30 years,1/29/18,2/28/18,Instagram,False,1
+a100001363,1/3/18,Push,control,False,English,English,0-18 years,1/29/18,2/28/18,Instagram,False,0
+a100001364,1/30/18,Facebook,personalization,True,English,English,0-18 years,1/30/18,5/7/18,Facebook,False,1
+a100001364,1/3/18,Facebook,control,False,English,English,19-24 years,1/30/18,5/7/18,Facebook,False,0
+a100001365,1/31/18,Instagram,personalization,True,English,English,19-24 years,1/31/18,4/23/18,Instagram,False,1
+a100001365,1/3/18,Instagram,control,False,English,English,24-30 years,1/31/18,4/23/18,Instagram,False,0
+a100001373,1/8/18,Facebook,personalization,True,English,English,24-30 years,1/8/18,4/7/18,Facebook,False,1
+a100001373,1/4/18,Instagram,control,False,English,English,36-45 years,1/8/18,4/7/18,Facebook,False,0
+a100001374,1/9/18,Instagram,personalization,True,English,English,0-18 years,1/9/18,3/4/18,Instagram,False,1
+a100001374,1/4/18,Instagram,control,False,English,English,45-55 years,1/9/18,3/4/18,Instagram,False,0
+a100001375,1/10/18,Instagram,personalization,True,English,English,19-24 years,1/10/18,4/19/18,Instagram,False,1
+a100001375,1/4/18,Facebook,control,False,English,English,0-18 years,1/10/18,4/19/18,Instagram,False,0
+a100001376,1/11/18,Facebook,personalization,True,English,English,24-30 years,1/11/18,1/28/18,Facebook,False,1
+a100001376,1/5/18,House Ads,control,False,English,English,19-24 years,1/11/18,1/28/18,Facebook,False,0
+a100001377,1/12/18,Instagram,personalization,True,English,English,19-24 years,1/12/18,2/7/18,Instagram,False,1
+a100001377,1/5/18,House Ads,control,False,English,English,24-30 years,1/12/18,2/7/18,Instagram,False,0
+a100001378,1/13/18,Email,personalization,True,English,English,24-30 years,1/13/18,1/30/18,Email,False,1
+a100001378,1/5/18,House Ads,control,False,English,English,30-36 years,1/13/18,1/30/18,Email,False,0
+a100001379,1/14/18,Push,personalization,True,English,English,19-24 years,1/14/18,3/15/18,Push,False,1
+a100001379,1/5/18,Push,control,False,English,English,36-45 years,1/14/18,3/15/18,Push,False,0
+a100001380,1/15/18,Facebook,personalization,True,English,English,24-30 years,1/15/18,1/22/18,Facebook,False,1
+a100001380,1/5/18,Facebook,control,False,English,English,45-55 years,1/15/18,1/22/18,Facebook,False,0
+a100001381,1/16/18,Instagram,personalization,True,English,English,19-24 years,1/16/18,2/2/18,Instagram,False,1
+a100001381,1/5/18,Instagram,control,False,English,English,0-18 years,1/16/18,2/2/18,Instagram,False,0
+a100007282,1/17/18,Email,control,True,German,German,36-45 years,1/17/18,2/25/18,Email,False,1
+a100007283,1/17/18,Email,control,True,German,German,45-55 years,1/17/18,4/5/18,Email,False,1
+a100007284,1/17/18,Email,control,True,German,German,55+ years,1/17/18,2/12/18,Email,False,1
+a100007285,1/17/18,Email,control,True,German,German,0-18 years,1/17/18,4/4/18,Email,False,1
+a100007286,1/17/18,Email,control,True,German,German,19-24 years,1/17/18,3/5/18,Email,False,1
+a100007287,1/17/18,Email,control,True,German,German,24-30 years,1/17/18,2/14/18,Email,False,1
+a100007288,1/17/18,Email,control,True,German,German,30-36 years,1/17/18,4/26/18,Email,False,1
+a100007289,1/17/18,Email,control,True,German,German,36-45 years,1/17/18,1/27/18,Email,False,1
+a100007290,1/17/18,Email,control,True,German,German,45-55 years,1/17/18,1/24/18,Email,False,1
