@@ -1,0 +1,42 @@
+Metadata:
+
+months_as_customer: lama user menjadi nasabah dalam hitungan bulan
+age: usia nasabah
+policy_number: nomor polis
+policy_bind_date: tanggal polis
+policy_state: wilayah polis, negara bagian
+policy_csl: Combined single limit polis
+policy_deductable: risiko yang ditanggung bersama
+policy_annual_premium: premi tahunan
+umbrella_limit: limit pembayaran risiko oleh perusahaan asuransi
+insured_zip: kode pos nasabah
+insured_sex: gender nasabah
+insured_education_level: tingkat pendidikan nasabah
+insured_occupation: pekerjaan nasabah
+insured_hobbies: hobi nasabah
+insured_relationship: status hubungan nasabah
+capital-gains: besar gains yang diperoleh dari ganti rugi
+capital-loss: besar loss yang diperoleh dari ganti rugi
+incident_date: tanggal insiden terjadi
+incident_type: tipe insiden
+collision_type: tipe tabrakan
+incident_severity: tingkah keparahan
+authorities_contacted: pihak berwajib yang dihubungi
+incident_state: lokasi insiden, negara bagian
+incident_city: kota terjadinya insiden
+incident_location: lokasi terjadinya insiden
+incident_hour_of_the_day: jam terjadinya insiden
+number_of_vehicles_involved: jumlah kendaraan yang ikut dalam insiden
+property_damage: apakah terdapat kerusakan properti? YES jika ya
+bodily_injuries: jumlah korban luka
+witness: jumlah saksi mata
+police_report_available: apakah terdapat laporan polisi? YES jika ya
+total_claim_amount: total klaim
+injury_claim: klaim untuk luka-luka
+property_claim: klaim untuk kerusakan properti
+vehicle_claim: klaim untuk kerusakan mobil
+auto_make: merek otomotif
+auto_model: model otomotif
+auto_year: tahun pembuatan mobil
+fraud_reported: apakah terlapor sebagai fraud? Y jika ya
+
